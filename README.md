@@ -21,6 +21,7 @@ A collection of plugins to make WordPress development easier.
 * [REST API Toolbox](https://wordpress.org/plugins/rest-api-toolbox/) - Allows easy tweaks of several REST API settings.
 * [Restrict Content by Role](https://wordpress.org/plugins/restrict-content-by-role/) - Restrict users with certain User Roles from accessing certain pieces of content and sub-content, both publicly and within the WordPress Dashboard (WP Admin).
 * [Restrict Dashboard by Role](https://wordpress.org/plugins/restrict-dashboard-by-role/) - Restrict users with certain User Roles from accessing the WordPress Dashboard (WP Admin).
+* [Restrict Passwords by Role](https://wordpress.org/plugins/restrict-passwords-by-role/) - Restrict users with certain User Roles from changing or resetting their password.
 * [Re-slug Updated](https://github.com/lukecav/re-slug/) - This WordPress plugin allows you to generate a new permalink when you change a post title.
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
 * [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
