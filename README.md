@@ -15,3 +15,10 @@ A collection of plugins to make WordPress development easier.
 * [Restrict Content by Role](https://wordpress.org/plugins/restrict-content-by-role/) - Restrict users with certain User Roles from accessing certain pieces of content and sub-content, both publicly and within the WordPress Dashboard (WP Admin).
 * [Restrict Dashboard by Role](https://wordpress.org/plugins/restrict-dashboard-by-role/) - Restrict users with certain User Roles from accessing the WordPress Dashboard (WP Admin).
 * [Restrict Passwords by Role](https://wordpress.org/plugins/restrict-passwords-by-role/) - Restrict users with certain User Roles from changing or resetting their password.
+* [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
+* [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
+* [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
+* [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
+* [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
+* [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
+* [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends WP API with WordPress menu routes.
