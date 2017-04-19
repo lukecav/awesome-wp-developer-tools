@@ -9,6 +9,7 @@ A collection of plugins to make WordPress development easier.
 * [Allow Multiple Accounts](https://wordpress.org/plugins/allow-multiple-accounts/) - Allow multiple user accounts to be created, registered, and updated having the same email address.
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
 * [Change Username](https://wordpress.org/plugins/change-username/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
+* [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
