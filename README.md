@@ -12,7 +12,9 @@ A collection of plugins to make WordPress development easier.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
 * [Change Username](https://wordpress.org/plugins/change-username/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
+* [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
+* [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress instalation, great for developers who need testing.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
 * [Invalid Login Redirect](https://github.com/CodeParrots/Invalid-Login-Redirect) - Invalid Login Redirect is a WordPress plugin that allows you to specify the number of times a user can enter invalid credentials before being redirected to a custom page of your choosing.
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
