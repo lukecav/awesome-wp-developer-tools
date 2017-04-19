@@ -28,4 +28,5 @@ A collection of plugins to make WordPress development easier.
 * [WPFront User Role Editor](https://wordpress.org/plugins/wpfront-user-role-editor/) - WPFront User Role Editor plugin allows you to easily manage WordPress user roles within your site.
 * [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
 * [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
+* [WP Reset](https://wordpress.org/plugins/wp-reset/) - It’s Resets the your database to the default installation and does not modify files. Deletes all customizations and content of wordpress.
 * [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends WP API with WordPress menu routes.
