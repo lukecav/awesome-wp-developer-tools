@@ -13,6 +13,7 @@ A collection of plugins to make WordPress development easier.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
+* [Invalid Login Redirect](https://github.com/CodeParrots/Invalid-Login-Redirect) - Invalid Login Redirect is a WordPress plugin that allows you to specify the number of times a user can enter invalid credentials before being redirected to a custom page of your choosing.
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 * [Meks Quick Plugin Disabler](https://wordpress.org/plugins/meks-quick-plugin-disabler/) - Main purpose of Meks Quick Plugin Disabler is to quickly find out if any recent issue you are having on your website is related to the one of currently active plugins.
 * [Meta Pixie](https://wordpress.org/plugins/meta-pixie/) - List, filter, sort and view commentmeta, postmeta, termmeta, sitemeta and usermeta records, even serialized and base64 encoded values.
