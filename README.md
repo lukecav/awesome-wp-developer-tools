@@ -6,6 +6,7 @@ A collection of plugins to make WordPress development easier.
 * [Advanced Bulk Actions](https://wordpress.org/plugins/bulk-actions/) - Advanced Bulk Actions is a WordPress plugin that adds new bulk actions to your admin panel on the posts, pages and users overviews.
 * [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - Manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel. Transform the WordPress admin screens into beautiful, clear overviews.
 * [Admin Menu Editor](https://wordpress.org/plugins/admin-menu-editor/) - Admin Menu Editor lets you manually edit the Dashboard menu. You can reorder the menus, show/hide specific items, change premissions, and more.
+* [Allow Multiple Accounts](https://wordpress.org/plugins/allow-multiple-accounts/) - Allow multiple user accounts to be created, registered, and updated having the same email address.
 * [Change Username](https://wordpress.org/plugins/change-username/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
