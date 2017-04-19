@@ -17,7 +17,6 @@ A collection of plugins to make WordPress development easier.
 * [Plugin Installer Speedup](https://wordpress.org/plugins/plugin-installer-speedup/) - Speedups: dont't load featured plugins, make Search Plugins button visible, skip plugin install confirmation.
 * [Pods](https://wordpress.org/plugins/pods/) - Manage all your custom content needs in ONE location with the Pods Framework.
 * [Post Type Switcher](https://wordpress.org/plugins/post-type-switcher/) - This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type.
-* [Post Type Switcher](https://wordpress.org/plugins/post-type-switcher/) - This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type.
 * [REST API Toolbox](https://wordpress.org/plugins/rest-api-toolbox/) - Allows easy tweaks of several REST API settings.
 * [Restrict Content by Role](https://wordpress.org/plugins/restrict-content-by-role/) - Restrict users with certain User Roles from accessing certain pieces of content and sub-content, both publicly and within the WordPress Dashboard (WP Admin).
 * [Restrict Dashboard by Role](https://wordpress.org/plugins/restrict-dashboard-by-role/) - Restrict users with certain User Roles from accessing the WordPress Dashboard (WP Admin).
