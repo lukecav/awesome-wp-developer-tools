@@ -32,6 +32,7 @@ A collection of plugins to make WordPress development easier.
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
 * [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
 * [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
+* [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
 * [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
 * [WPFront User Role Editor](https://wordpress.org/plugins/wpfront-user-role-editor/) - WPFront User Role Editor plugin allows you to easily manage WordPress user roles within your site.
