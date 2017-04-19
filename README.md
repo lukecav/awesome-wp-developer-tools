@@ -8,6 +8,7 @@ A collection of plugins to make WordPress development easier.
 * [Admin Menu Editor](https://wordpress.org/plugins/admin-menu-editor/) - Admin Menu Editor lets you manually edit the Dashboard menu. You can reorder the menus, show/hide specific items, change premissions, and more.
 * [Allow Multiple Accounts](https://wordpress.org/plugins/allow-multiple-accounts/) - Allow multiple user accounts to be created, registered, and updated having the same email address.
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
+* [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
 * [Change Username](https://wordpress.org/plugins/change-username/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
@@ -20,6 +21,7 @@ A collection of plugins to make WordPress development easier.
 * [Pods](https://wordpress.org/plugins/pods/) - Manage all your custom content needs in ONE location with the Pods Framework.
 * [Post Meta Inspector](https://wordpress.org/plugins/post-meta-inspector/) - A quick and easy way to see post meta associated with any given post. When activated, this plugin prints your post meta keys and values inside of a post meta box.
 * [Post Type Switcher](https://wordpress.org/plugins/post-type-switcher/) - This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type.
+* [Options Pixie](https://wordpress.org/plugins/options-pixie/) - List, filter, sort and view options records, even serialized and base64 encoded values.
 * [REST API Toolbox](https://wordpress.org/plugins/rest-api-toolbox/) - Allows easy tweaks of several REST API settings.
 * [Restrict Content by Role](https://wordpress.org/plugins/restrict-content-by-role/) - Restrict users with certain User Roles from accessing certain pieces of content and sub-content, both publicly and within the WordPress Dashboard (WP Admin).
 * [Restrict Dashboard by Role](https://wordpress.org/plugins/restrict-dashboard-by-role/) - Restrict users with certain User Roles from accessing the WordPress Dashboard (WP Admin).
