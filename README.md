@@ -30,6 +30,7 @@ A collection of plugins to make WordPress development easier.
 * [Restrict Passwords by Role](https://wordpress.org/plugins/restrict-passwords-by-role/) - Restrict users with certain User Roles from changing or resetting their password.
 * [Re-slug Updated](https://github.com/lukecav/re-slug/) - This WordPress plugin allows you to generate a new permalink when you change a post title.
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
+* [Stream](https://wordpress.org/plugins/stream/) - With Stream, you’re never left in the dark about WordPress Admin activity.
 * [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
 * [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
