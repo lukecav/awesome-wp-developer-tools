@@ -26,6 +26,7 @@ A collection of plugins to make WordPress development easier.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
 * [Invalid Login Redirect](https://github.com/CodeParrots/Invalid-Login-Redirect) - Invalid Login Redirect is a WordPress plugin that allows you to specify the number of times a user can enter invalid credentials before being redirected to a custom page of your choosing.
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
+* [Link Picker for CMB2](https://wordpress.org/plugins/link-picker-for-cmb2/) - Using the Link Picker for CMB2 control, you can choose a link from your WordPress site, or manually enter a link.
 * [Meks Quick Plugin Disabler](https://wordpress.org/plugins/meks-quick-plugin-disabler/) - Main purpose of Meks Quick Plugin Disabler is to quickly find out if any recent issue you are having on your website is related to the one of currently active plugins.
 * [Meta Box](https://wordpress.org/plugins/meta-box/) - Meta Box plugin is a powerful, professional toolkit for developers to create and handle everything related to custom meta boxes and custom fields for WordPress.
 * [MB Custom Post Type](https://github.com/rilwis/mb-custom-post-type) - MB Custom Post Type helps you to create and manage custom post types and custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
