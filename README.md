@@ -10,7 +10,8 @@ A collection of plugins and tools to make WordPress development easier.
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
-* [CMB2](https://wordpress.org/plugins/change-username/) - CMB2 is a developer’s toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind.
+* [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
+* [Carbon Fields](https://wordpress.org/plugins/carbon-fields/) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
 * [CMB2 Attached Posts Field](https://github.com/CMB2/cmb2-attached-posts) - Custom field for Custom Metaboxes and Fields for WordPress for attaching posts to a page.
 * [CMB2 Code Snippet Library](https://github.com/CMB2/CMB2-Snippet-Library) - This is a community-maintained repository of code snippets that help modify the default behavior of CMB2.
 * [CMB2 Post Search field](https://github.com/CMB2/CMB2-Post-Search-field) - Custom field for CMB2 which adds a post-search dialog for searching/attaching other post IDs.
