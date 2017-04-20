@@ -10,7 +10,8 @@ A collection of plugins to make WordPress development easier.
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
-* [Change Username](https://wordpress.org/plugins/change-username/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
+* [CMB2](https://wordpress.org/plugins/change-username/) - CMB2 is a developer’s toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind.
+* [Change Username](https://wordpress.org/plugins/cmb2/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
