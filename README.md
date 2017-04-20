@@ -1,5 +1,5 @@
 # awesome-wp-developer-tools
-A collection of plugins to make WordPress development easier.
+A collection of plugins and tools to make WordPress development easier.
 
 * [AceIDE](https://wordpress.org/plugins/aceide/) - AceIDE is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
@@ -49,6 +49,7 @@ A collection of plugins to make WordPress development easier.
 * [Stream](https://wordpress.org/plugins/stream/) - With Stream, you’re never left in the dark about WordPress Admin activity.
 * [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
 * [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
+* [Useful WordPress Functions](https://github.com/taniarascia/wp-functions) - This is a list of useful WordPress functions that I often reference to enhance or clean up my sites.
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
 * [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
 * [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
