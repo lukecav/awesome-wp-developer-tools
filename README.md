@@ -15,6 +15,7 @@ A collection of plugins to make WordPress development easier.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress instalation, great for developers who need testing.
+* [FastDev](https://wordpress.org/plugins/fastdev/) - Provides helpful information and functions for WordPress developers to make the development even faster.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
 * [Invalid Login Redirect](https://github.com/CodeParrots/Invalid-Login-Redirect) - Invalid Login Redirect is a WordPress plugin that allows you to specify the number of times a user can enter invalid credentials before being redirected to a custom page of your choosing.
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
@@ -36,6 +37,7 @@ A collection of plugins to make WordPress development easier.
 * [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
 * [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
+* [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
 * [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
 * [WPFront User Role Editor](https://wordpress.org/plugins/wpfront-user-role-editor/) - WPFront User Role Editor plugin allows you to easily manage WordPress user roles within your site.
