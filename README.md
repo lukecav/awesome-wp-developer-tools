@@ -22,6 +22,7 @@ A collection of plugins and tools to make WordPress development easier.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
+* [Extended CPTs](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types, allowing developers to quickly build custom post types without having to write the same code again and again.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress instalation, great for developers who need testing.
 * [FastDev](https://wordpress.org/plugins/fastdev/) - Provides helpful information and functions for WordPress developers to make the development even faster.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
