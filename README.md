@@ -1,5 +1,5 @@
 # awesome-wp-developer-tools
-A collection of plugins and tools to make WordPress development easier.
+A collection of plugins, starter themes and tools to make WordPress development easier.
 
 * [AceIDE](https://wordpress.org/plugins/aceide/) - AceIDE is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
