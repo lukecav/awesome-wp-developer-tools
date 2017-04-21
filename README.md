@@ -9,7 +9,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Allow Multiple Accounts](https://wordpress.org/plugins/allow-multiple-accounts/) - Allow multiple user accounts to be created, registered, and updated having the same email address.
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
-* [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
+* [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - When moving your WordPress site to a new domain or server, you will likely run into a need to run a search/replace on the database for everything to work correctly.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
 * [Carbon Fields](https://wordpress.org/plugins/carbon-fields/) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
 * [CMB2 Attached Posts Field](https://github.com/CMB2/cmb2-attached-posts) - Custom field for Custom Metaboxes and Fields for WordPress for attaching posts to a page.
