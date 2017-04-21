@@ -50,6 +50,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Restrict Passwords by Role](https://wordpress.org/plugins/restrict-passwords-by-role/) - Restrict users with certain User Roles from changing or resetting their password.
 * [Re-slug Updated](https://github.com/lukecav/re-slug/) - This WordPress plugin allows you to generate a new permalink when you change a post title.
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
+* [Show IDs by 99 Robots](https://wordpress.org/plugins/wpsite-show-ids/) - Show IDs by 99 Robots is super light-weight and does not need any configuration or separate options page. 
 * [Stream](https://wordpress.org/plugins/stream/) - With Stream, you’re never left in the dark about WordPress Admin activity.
 * [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
 * [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
