@@ -37,6 +37,7 @@ A collection of plugins and tools to make WordPress development easier.
 * [MB Rest API](https://github.com/rilwis/mb-rest-api) - MB Rest API is an extension of the Meta Box plugin which pulls all custom fields' values (meta value) from posts, pages, custom post types, terms into the WordPress REST API responses under 'meta_box' key.
 * [MB Custom Taxonomy](https://github.com/rilwis/mb-custom-taxonomy) - MB Custom Taxonomy helps you to create and manage custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
 * [Meta Pixie](https://wordpress.org/plugins/meta-pixie/) - List, filter, sort and view commentmeta, postmeta, termmeta, sitemeta and usermeta records, even serialized and base64 encoded values.
+* [New Project Boilerplate](https://github.com/craigsimps/new-project-boilerplate) - Using Composer and WPStarter, this repository is used to kick off new WordPress projects and installs WordPress, Genesis, my Genesis starter theme and common plugins (free and premium). Premium plugins are made available using SatisPress.
 * [PAP Texturize](https://github.com/gitlost/pap-texturize) - Patch-as-plugin that texturizes text containing inline HTML tags.
 * [Plugin Installer Speedup](https://wordpress.org/plugins/plugin-installer-speedup/) - Speedups: dont't load featured plugins, make Search Plugins button visible, skip plugin install confirmation.
 * [Pods](https://wordpress.org/plugins/pods/) - Manage all your custom content needs in ONE location with the Pods Framework.
