@@ -66,6 +66,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WPFront User Role Editor](https://wordpress.org/plugins/wpfront-user-role-editor/) - WPFront User Role Editor plugin allows you to easily manage WordPress user roles within your site.
 * [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
 * [WordPress-Gear](https://github.com/wecodemore/WordPress-Gear) - A bunch of gear for WP developers.
+* [WP Query Console](https://wordpress.org/plugins/wp-query-console/) - Handy tool for developers to quickly test various WordPress queries (WP_Query, WP_User_Query, WP_Comment_Query, WP_Term_Query, WP_Network_Query, WP_Site_Query). Simply provide your arguments array and select the query type you would like to test. 
 * [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
 * [WP Reset](https://wordpress.org/plugins/wp-reset/) - It’s Resets the your database to the default installation and does not modify files. Deletes all customizations and content of wordpress.
 * [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends WP API with WordPress menu routes.
