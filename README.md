@@ -1,6 +1,7 @@
 # awesome-wp-developer-tools
 A collection of plugins, starter themes and tools to make WordPress development easier.
 
+* [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unweildy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healther Option helps your options table get back into shape.
 * [AceIDE](https://wordpress.org/plugins/aceide/) - AceIDE is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [Advanced Bulk Actions](https://wordpress.org/plugins/bulk-actions/) - Advanced Bulk Actions is a WordPress plugin that adds new bulk actions to your admin panel on the posts, pages and users overviews.
