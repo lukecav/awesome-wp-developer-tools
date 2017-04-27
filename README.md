@@ -31,7 +31,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 * [Log Deprecated Notices](https://wordpress.org/plugins/log-deprecated-notices/) - This plugin logs the usage of deprecated files, functions, and function arguments. It identifies where the deprecated functionality is being used and offers the alternative if available.
 * [Link Picker for CMB2](https://wordpress.org/plugins/link-picker-for-cmb2/) - Using the Link Picker for CMB2 control, you can choose a link from your WordPress site, or manually enter a link.
-* [Meks Quick Plugin Disabler](https://wordpress.org/plugins/meks-quick-plugin-disabler/) - Main purpose of Meks Quick Plugin Disabler is to quickly find out if any recent issue you are having on your website is related to the one of currently active plugins.
+* [Machete](https://wordpress.org/plugins/machete/) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible.
 * [Meta Box](https://wordpress.org/plugins/meta-box/) - Meta Box plugin is a powerful, professional toolkit for developers to create and handle everything related to custom meta boxes and custom fields for WordPress.
 * [MB Custom Post Type](https://github.com/rilwis/mb-custom-post-type) - MB Custom Post Type helps you to create and manage custom post types and custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
 * [Meta Box for WordPress SEO](https://github.com/rilwis/mb-yoast-seo) - Meta Box for WordPress SEO is a free extension for Meta Box plugin which allows developers to add content of custom fields to Yoast SEO Content Analysis to have better SEO score.
