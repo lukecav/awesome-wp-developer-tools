@@ -41,6 +41,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [New Project Boilerplate](https://github.com/craigsimps/new-project-boilerplate) - Using Composer and WPStarter, this repository is used to kick off new WordPress projects and installs WordPress, Genesis, my Genesis starter theme and common plugins (free and premium). Premium plugins are made available using SatisPress.
 * [PAP Texturize](https://github.com/gitlost/pap-texturize) - Patch-as-plugin that texturizes text containing inline HTML tags.
 * [Plugin Installer Speedup](https://wordpress.org/plugins/plugin-installer-speedup/) - Speedups: dont't load featured plugins, make Search Plugins button visible, skip plugin install confirmation.
+ [Plugin Load Filter](https://wordpress.org/plugins/plugin-load-filter/) - Although have installed a lot of plugins, if you do not want to activate for all of the pages, you will be able to deactivate unnecessary plugins of each individual page.
 * [Pods](https://wordpress.org/plugins/pods/) - Manage all your custom content needs in ONE location with the Pods Framework.
 * [Post Meta Inspector](https://wordpress.org/plugins/post-meta-inspector/) - A quick and easy way to see post meta associated with any given post. When activated, this plugin prints your post meta keys and values inside of a post meta box.
 * [Post Type Switcher](https://wordpress.org/plugins/post-type-switcher/) - This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type.
