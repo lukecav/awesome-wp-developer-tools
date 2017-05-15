@@ -41,6 +41,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Meta Pixie](https://wordpress.org/plugins/meta-pixie/) - List, filter, sort and view commentmeta, postmeta, termmeta, sitemeta and usermeta records, even serialized and base64 encoded values.
 * [New Project Boilerplate](https://github.com/craigsimps/new-project-boilerplate) - Using Composer and WPStarter, this repository is used to kick off new WordPress projects and installs WordPress, Genesis, my Genesis starter theme and common plugins (free and premium). Premium plugins are made available using SatisPress.
 * [PAP Texturize](https://github.com/gitlost/pap-texturize) - Patch-as-plugin that texturizes text containing inline HTML tags.
+* [Plugin Git SVN sync script](https://github.com/rayrutjes/wp-plugin-git-svn-sync/) - Seamlessly synchronize your plugin's Git repository with the WordPress SVN repository with a zero config bash script.
 * [Plugin Installer Speedup](https://wordpress.org/plugins/plugin-installer-speedup/) - Speedups: dont't load featured plugins, make Search Plugins button visible, skip plugin install confirmation.
  [Plugin Load Filter](https://wordpress.org/plugins/plugin-load-filter/) - Although have installed a lot of plugins, if you do not want to activate for all of the pages, you will be able to deactivate unnecessary plugins of each individual page.
 * [Pods](https://wordpress.org/plugins/pods/) - Manage all your custom content needs in ONE location with the Pods Framework.
