@@ -71,6 +71,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
 * [WP Deploy Flow](https://wordpress.org/plugins/wp-deploy-flow/) - Deploy to and from remote environments.
 * [WPFront User Role Editor](https://wordpress.org/plugins/wpfront-user-role-editor/) - WPFront User Role Editor plugin allows you to easily manage WordPress user roles within your site.
+* [WP Hide & Security Enhancer](https://wordpress.org/plugins/wp-hide-security-enhancer/) - Hide and increase Security for your WordPress website instance using smart techniques. No files are changed on your server.
 * [WP Inspect](https://wordpress.org/plugins/wp-inspect/) - The WordPress Debug Plugin.
 * [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
 * [WordPress-Gear](https://github.com/wecodemore/WordPress-Gear) - A bunch of gear for WP developers.
