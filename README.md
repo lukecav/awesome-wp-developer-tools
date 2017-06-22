@@ -28,6 +28,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Extended Taxonomies](https://github.com/johnbillion/extended-taxos) - A library which provides extended functionality to WordPress custom taxonomies, allowing you to quickly build custom taxonomies without having to write the same code again and again.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress instalation, great for developers who need testing.
 * [FastDev](https://wordpress.org/plugins/fastdev/) - Provides helpful information and functions for WordPress developers to make the development even faster.
+* [Gitium](https://wordpress.org/plugins/gitium/) - Keep all your code on git version control system.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
 * [Invalid Login Redirect](https://github.com/CodeParrots/Invalid-Login-Redirect) - Invalid Login Redirect is a WordPress plugin that allows you to specify the number of times a user can enter invalid credentials before being redirected to a custom page of your choosing.
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
