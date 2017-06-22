@@ -60,6 +60,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Re-slug Updated](https://github.com/lukecav/re-slug/) - This WordPress plugin allows you to generate a new permalink when you change a post title.
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
 * [Show IDs by 99 Robots](https://wordpress.org/plugins/wpsite-show-ids/) - Show IDs by 99 Robots is super light-weight and does not need any configuration or separate options page. 
+* [Simple Custom CSS and JS](https://wordpress.org/plugins/custom-css-js/) - Easily add Custom CSS or JS to your website with an awesome editor.
 * [Stream](https://wordpress.org/plugins/stream/) - With Stream, you’re never left in the dark about WordPress Admin activity.
 * [Temporary Access for users](https://wordpress.org/plugins/temporary-access-for-users/) - Plugin is usefull for provide temporary access to user. Also we can disable the user to temporary based.
 * [Theme Switcha](https://wordpress.org/plugins/theme-switcha/) - Theme switching done right.
