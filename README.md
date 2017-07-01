@@ -62,6 +62,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Restrict Passwords by Role](https://wordpress.org/plugins/restrict-passwords-by-role/) - Restrict users with certain User Roles from changing or resetting their password.
 * [Re-slug Updated](https://github.com/lukecav/re-slug/) - This WordPress plugin allows you to generate a new permalink when you change a post title.
 * [Revision Strike](https://wordpress.org/plugins/revision-strike/) - Periodically purge old post revisions via WP Cron.
+* [Revisr](https://wordpress.org/plugins/revisr/) - A plugin that allows users to manage WordPress websites with Git repositories.
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
 * [Search Regex](https://wordpress.org/plugins/search-regex/) - Adds search & replace functionality across posts, pages, comments, and meta-data, with full regular expression support.
 * [Show IDs by 99 Robots](https://wordpress.org/plugins/wpsite-show-ids/) - Show IDs by 99 Robots is super light-weight and does not need any configuration or separate options page. 
