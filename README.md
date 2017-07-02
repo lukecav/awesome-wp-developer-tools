@@ -79,6 +79,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
 * [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
+* [WP Background Processing](https://github.com/A5hleyRich/wp-background-processing) -Asynchronous requests and background processing in WordPress.
 * [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
 * [WP Deploy Flow](https://wordpress.org/plugins/wp-deploy-flow/) - Deploy to and from remote environments.
 * [WP Force Lowercase URLs](https://wordpress.org/plugins/wp-force-lowercase-urls/) - Redirect uppercase URLs to lowercase.
