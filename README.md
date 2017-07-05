@@ -75,12 +75,13 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
 * [Underscores](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there.
 * [Underscores Components](http://components.underscores.me/) - Build a solid foundation for your WordPress project with the Components starter-theme generator.
-* [Useful WordPress Functions](https://github.com/taniarascia/wp-functions) - This is a list of useful WordPress functions that I often reference to enhance or clean up my sites.
+* [Useful WordPress Functions](https://github.com/taniaraschttps://github.com/lucatume/wp-browseria/wp-functions) - This is a list of useful WordPress functions that I often reference to enhance or clean up my sites.
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
 * [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
 * [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
-* [WP Background Processing](https://github.com/A5hleyRich/wp-background-processing) -Asynchronous requests and background processing in WordPress.
+* [WP Background Processing](https://github.com/A5hleyRich/wp-background-processing) - Asynchronous requests and background processing in WordPress.
+* [WP Browser](https://github.com/lucatume/wp-browser) - A WordPress specific set of extensions for Codeception.
 * [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
 * [WP Deploy Flow](https://wordpress.org/plugins/wp-deploy-flow/) - Deploy to and from remote environments.
 * [WP Force Lowercase URLs](https://wordpress.org/plugins/wp-force-lowercase-urls/) - Redirect uppercase URLs to lowercase.
