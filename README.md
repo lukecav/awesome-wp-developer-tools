@@ -82,6 +82,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
 * [WP Background Processing](https://github.com/A5hleyRich/wp-background-processing) - Asynchronous requests and background processing in WordPress.
 * [WP Browser](https://github.com/lucatume/wp-browser) - A WordPress specific set of extensions for Codeception.
+* [WP Codeception](https://github.com/10up/wp-codeception) - Registers WP-CLI commands which allow you to execute Codeception tests.
 * [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
 * [WP Deploy Flow](https://wordpress.org/plugins/wp-deploy-flow/) - Deploy to and from remote environments.
 * [WP Force Lowercase URLs](https://wordpress.org/plugins/wp-force-lowercase-urls/) - Redirect uppercase URLs to lowercase.
