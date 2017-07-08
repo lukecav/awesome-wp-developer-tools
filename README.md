@@ -25,7 +25,6 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Change Username](https://wordpress.org/plugins/cmb2/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
-* [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
 * [Extended CPTs](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types, allowing developers to quickly build custom post types without having to write the same code again and again.
