@@ -85,6 +85,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Browser](https://github.com/lucatume/wp-browser) - A WordPress specific set of extensions for Codeception.
 * [WP Codeception](https://github.com/10up/wp-codeception) - Registers WP-CLI commands which allow you to execute Codeception tests.
 * [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
+* [WP Dashboard Cleaner](https://wordpress.org/plugins/wp-dashboard-cleaner/) - The Admin can remove unwanted widgets / sections from your WordPress Dashboard.
 * [WP Deploy Flow](https://wordpress.org/plugins/wp-deploy-flow/) - Deploy to and from remote environments.
 * [WP Force Lowercase URLs](https://wordpress.org/plugins/wp-force-lowercase-urls/) - Redirect uppercase URLs to lowercase.
 * [WPFront User Role Editor](https://wordpress.org/plugins/wpfront-user-role-editor/) - WPFront User Role Editor plugin allows you to easily manage WordPress user roles within your site.
