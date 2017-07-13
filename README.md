@@ -99,4 +99,5 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
 * [WP Reset](https://wordpress.org/plugins/wp-reset/) - It’s Resets the your database to the default installation and does not modify files. Deletes all customizations and content of wordpress.
 * [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends WP API with WordPress menu routes.
+* [WordPress MU Domain Mapping](https://wordpress.org/plugins/wordpress-mu-domain-mapping/) - Map any blog on a WordPress website to another domain.
 * [Yeoman WordPress Plugin Generator](https://github.com/WebDevStudios/generator-plugin-wp) - Yeoman generator for WordPress plugins.
