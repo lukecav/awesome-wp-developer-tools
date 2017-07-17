@@ -13,6 +13,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
 * [Better Font Awesome](https://wordpress.org/plugins/better-font-awesome/) - The ultimate Font Awesome icon plugin for WordPress.
 * [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - When moving your WordPress site to a new domain or server, you will likely run into a need to run a search/replace on the database for everything to work correctly.
+* [BRAD](https://wordpress.org/plugins/brad/) - Better Responsility Around Discoverability.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
 * [Carbon Fields](https://github.com/humanmade/Cavalcade) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
 * [Cavalcade](https://wordpress.org/plugins/carbon-fields/) - A better wp-cron. Horizontally scalable, works perfectly with multisite.
