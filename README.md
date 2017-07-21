@@ -51,6 +51,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [MB Custom Taxonomy](https://github.com/rilwis/mb-custom-taxonomy) - MB Custom Taxonomy helps you to create and manage custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
 * [Meta Pixie](https://wordpress.org/plugins/meta-pixie/) - List, filter, sort and view commentmeta, postmeta, termmeta, sitemeta and usermeta records, even serialized and base64 encoded values.
 * [Multisite Post Duplicator](https://wordpress.org/plugins/multisite-post-duplicator/) - Duplicate/Copy/Clone any individual page, post or custom post type from one site on your multisite network to another.
+* [Multisite Post Duplicator Auto Post](https://github.com/magicstickuk/multisite-post-duplicator-auto-post) - Auto duplicate posts to a select range of sites on save of post.
 * [New Project Boilerplate](https://github.com/craigsimps/new-project-boilerplate) - Using Composer and WPStarter, this repository is used to kick off new WordPress projects and installs WordPress, Genesis, my Genesis starter theme and common plugins (free and premium). Premium plugins are made available using SatisPress.
 * [PAP Texturize](https://github.com/gitlost/pap-texturize) - Patch-as-plugin that texturizes text containing inline HTML tags.
 * [Plugin Git SVN sync script](https://github.com/rayrutjes/wp-plugin-git-svn-sync/) - Seamlessly synchronize your plugin's Git repository with the WordPress SVN repository with a zero config bash script.
