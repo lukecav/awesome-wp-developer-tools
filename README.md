@@ -77,6 +77,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Revisr](https://wordpress.org/plugins/revisr/) - A plugin that allows users to manage WordPress websites with Git repositories.
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
 * [Search Regex](https://wordpress.org/plugins/search-regex/) - Adds search & replace functionality across posts, pages, comments, and meta-data, with full regular expression support.
+* [Server Status](https://wordpress.org/plugins/server-status-littlebizzy/) - Useful statistics about the server OS, CPU, RAM, load average, memory usage, IP address, hostname, timezone, disk space, PHP, MySQL, caches, etc.
 * [Show IDs by 99 Robots](https://wordpress.org/plugins/wpsite-show-ids/) - Show IDs by 99 Robots is super light-weight and does not need any configuration or separate options page. 
 * [Simple Custom CSS and JS](https://wordpress.org/plugins/custom-css-js/) - Easily add Custom CSS or JS to your website with an awesome editor.
 * [Stream](https://wordpress.org/plugins/stream/) - With Stream, you’re never left in the dark about WordPress Admin activity.
