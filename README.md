@@ -57,6 +57,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Multisite Post Duplicator Auto Post](https://github.com/magicstickuk/multisite-post-duplicator-auto-post) - Auto duplicate posts to a select range of sites on save of post.
 * [New Project Boilerplate](https://github.com/craigsimps/new-project-boilerplate) - Using Composer and WPStarter, this repository is used to kick off new WordPress projects and installs WordPress, Genesis, my Genesis starter theme and common plugins (free and premium). Premium plugins are made available using SatisPress.
 * [PAP Texturize](https://github.com/gitlost/pap-texturize) - Patch-as-plugin that texturizes text containing inline HTML tags.
+* [PHP Settings](https://wordpress.org/plugins/php-settings/) - This plugin provides a simple user interface with a code editor to edit your local php.ini settings.
 * [Plugin Git SVN sync script](https://github.com/rayrutjes/wp-plugin-git-svn-sync/) - Seamlessly synchronize your plugin's Git repository with the WordPress SVN repository with a zero config bash script.
 * [Plugin Installer Speedup](https://wordpress.org/plugins/plugin-installer-speedup/) - Speedups: dont't load featured plugins, make Search Plugins button visible, skip plugin install confirmation.
  [Plugin Load Filter](https://wordpress.org/plugins/plugin-load-filter/) - Although have installed a lot of plugins, if you do not want to activate for all of the pages, you will be able to deactivate unnecessary plugins of each individual page.
