@@ -31,6 +31,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
+* [Dovedi](https://github.com/ericmann/dovedi) - Time-based One Time Password authentication for WordPress.
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post-littlebizzy/) - Easily duplicate (clone) any blog post, custom post, or page in WordPress which are then saved in Draft mode, saving you tons of time and headache.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
 * [Extended CPTs](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types, allowing developers to quickly build custom post types without having to write the same code again and again.
