@@ -28,6 +28,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [CMB2 Term Select](https://github.com/CMB2/cmb2-term-select) - Select terms to associate with your content.
 * [Change Username](https://wordpress.org/plugins/cmb2/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
+* [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/) - The only cookie consent plugin you'll ever need.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
