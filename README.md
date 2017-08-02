@@ -33,7 +33,6 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Debug Objects](https://wordpress.org/plugins/debug-objects/) - List filter and action-hooks, cache data, defined constants, queries, included scripts and styles, php and memory information and return of conditional tags only for admins, for debug, information or learning purposes.
- * and memory information and return of conditional tags only for admins; for debug, information or learning purposes
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
 * [Dovedi](https://github.com/ericmann/dovedi) - Time-based One Time Password authentication for WordPress.
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post-littlebizzy/) - Easily duplicate (clone) any blog post, custom post, or page in WordPress which are then saved in Draft mode, saving you tons of time and headache.
