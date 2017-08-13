@@ -104,6 +104,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
 * [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
+* [What The File](https://wordpress.org/plugins/what-the-file/) - What The File adds an option to your toolbar showing what file and template parts are used to display the page youâ€™re currently viewing. You can click the file name to directly edit it through the theme editor. Supports BuddyPress and Roots Theme.
 * [WP Background Processing](https://github.com/A5hleyRich/wp-background-processing) - Asynchronous requests and background processing in WordPress.
 * [WP Browser](https://github.com/lucatume/wp-browser) - A WordPress specific set of extensions for Codeception.
 * [WP Codeception](https://github.com/10up/wp-codeception) - Registers WP-CLI commands which allow you to execute Codeception tests.
