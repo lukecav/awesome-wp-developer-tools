@@ -122,6 +122,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
 * [WP Reset](https://wordpress.org/plugins/wp-reset/) - It’s Resets the your database to the default installation and does not modify files. Deletes all customizations and content of wordpress.
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - Rollback (or forward) any WordPress.org plugin or theme like a boss. 
+* [WP Plugin Git SVN Sync](https://github.com/rayrutjes/wp-plugin-git-svn-sync) - Zero config synchronizing of Git repository with SVN for publishing WordPress plugins.
 * [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends WP API with WordPress menu routes.
 * [WordPress Log Viewer](https://github.com/allbitsnbytes/wp-log-viewer) - WordPress debug log viewer plugin.
 * [WordPress MU Domain Mapping](https://wordpress.org/plugins/wordpress-mu-domain-mapping/) - Map any blog on a WordPress website to another domain.
