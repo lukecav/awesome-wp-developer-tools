@@ -32,6 +32,9 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/) - The only cookie consent plugin you'll ever need.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
+* [Custom Field Suite](https://wordpress.org/plugins/custom-field-suite/) - Visually add custom fields to your WordPress edit pages.
+* [Custom Field Suite Options Screens](https://wordpress.org/plugins/cfs-options-screens/) - Register options screens powered by Custom Field Suite.
+* [Custom Field Suite Yoast Analysis](https://wordpress.org/plugins/cfs-yoast-analysis/) - Integrate Custom Field Suite content in Yoast WordPress SEO analysis.
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Debug Objects](https://wordpress.org/plugins/debug-objects/) - List filter and action-hooks, cache data, defined constants, queries, included scripts and styles, php and memory information and return of conditional tags only for admins, for debug, information or learning purposes.
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
