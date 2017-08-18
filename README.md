@@ -131,3 +131,4 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WordPress Log Viewer](https://github.com/allbitsnbytes/wp-log-viewer) - WordPress debug log viewer plugin.
 * [WordPress MU Domain Mapping](https://wordpress.org/plugins/wordpress-mu-domain-mapping/) - Map any blog on a WordPress website to another domain.
 * [Yeoman WordPress Plugin Generator](https://github.com/WebDevStudios/generator-plugin-wp) - Yeoman generator for WordPress plugins.
+* [Upgrade for Unattach and Re-attach Media Attachments](https://wordpress.org/plugins/upgrade-for-unattach-re-attach-media-attachments/) - Unattach and Re-attach images and other attachments from within the media library. The plugin is similar to its predecessors but security and code refactoring has been done.
