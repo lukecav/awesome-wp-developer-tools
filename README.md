@@ -83,6 +83,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Piklist](https://github.com/piklist/piklist) - The most powerful framework available for WordPress.
 * [Options Pixie](https://wordpress.org/plugins/options-pixie/) - List, filter, sort and view options records, even serialized and base64 encoded values.
 * [Remove WP Meta Tags and Links](https://wordpress.org/plugins/remove-wp-meta-tags/) - It is a very lightweight plugin for enable, disable or remove the unwanted meta tags and links from the source code.
+* [REST API Multiple Post Types](https://wordpress.org/plugins/rest-api-multiple-post-types/) - Query for multiple post types on the default post route.
 * [REST API Taxonomy Boxes](https://github.com/talyes-in/rest-api-taxonomy-boxes) - Update the default WordPress Taxonomy Meta Boxes to use Backbone.js and the REST API.
 * [REST API Toolbox](https://wordpress.org/plugins/rest-api-toolbox/) - Allows easy tweaks of several REST API settings.
 * [Restrict Content by Role](https://wordpress.org/plugins/restrict-content-by-role/) - Restrict users with certain User Roles from accessing certain pieces of content and sub-content, both publicly and within the WordPress Dashboard (WP Admin).
