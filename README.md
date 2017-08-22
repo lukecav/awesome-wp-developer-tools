@@ -36,6 +36,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Custom Field Suite Options Screens](https://wordpress.org/plugins/cfs-options-screens/) - Register options screens powered by Custom Field Suite.
 * [Custom Field Suite Yoast Analysis](https://wordpress.org/plugins/cfs-yoast-analysis/) - Integrate Custom Field Suite content in Yoast WordPress SEO analysis.
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
+* [Debug Bar ElasticPress](https://github.com/10up/debug-bar-elasticpress) - A WordPress plugin that adds a Debug Bar panel to examine ElasticPress queries.
 * [Debug Objects](https://wordpress.org/plugins/debug-objects/) - List filter and action-hooks, cache data, defined constants, queries, included scripts and styles, php and memory information and return of conditional tags only for admins, for debug, information or learning purposes.
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
