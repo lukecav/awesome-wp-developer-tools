@@ -82,6 +82,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Post Meta Inspector](https://wordpress.org/plugins/post-meta-inspector/) - A quick and easy way to see post meta associated with any given post. When activated, this plugin prints your post meta keys and values inside of a post meta box.
 * [Post Type Switcher](https://wordpress.org/plugins/post-type-switcher/) - This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type.
 * [Piklist](https://github.com/piklist/piklist) - The most powerful framework available for WordPress.
+* [Public Post Preview](https://wordpress.org/plugins/public-post-preview/) - Enables you to give a link to anonymous users for public preview of any post type before it is published.
 * [Options Pixie](https://wordpress.org/plugins/options-pixie/) - List, filter, sort and view options records, even serialized and base64 encoded values.
 * [Remove WP Meta Tags and Links](https://wordpress.org/plugins/remove-wp-meta-tags/) - It is a very lightweight plugin for enable, disable or remove the unwanted meta tags and links from the source code.
 * [REST API Multiple Post Types](https://wordpress.org/plugins/rest-api-multiple-post-types/) - Query for multiple post types on the default post route.
