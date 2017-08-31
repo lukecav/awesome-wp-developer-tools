@@ -92,6 +92,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Restrict Content by Role](https://wordpress.org/plugins/restrict-content-by-role/) - Restrict users with certain User Roles from accessing certain pieces of content and sub-content, both publicly and within the WordPress Dashboard (WP Admin).
 * [Restrict Dashboard by Role](https://wordpress.org/plugins/restrict-dashboard-by-role/) - Restrict users with certain User Roles from accessing the WordPress Dashboard (WP Admin).
 * [Restrict Passwords by Role](https://wordpress.org/plugins/restrict-passwords-by-role/) - Restrict users with certain User Roles from changing or resetting their password.
+* [Rest Routes](https://wordpress.org/plugins/custom-rest-routes/) - Activate routes for custom post types that were registered by another plugin or theme. Visit the settings menu and click on the "REST Routes" menu item.
 * [Re-slug Updated](https://github.com/lukecav/re-slug/) - This WordPress plugin allows you to generate a new permalink when you change a post title.
 * [Revision Strike](https://wordpress.org/plugins/revision-strike/) - Periodically purge old post revisions via WP Cron.
 * [Revisr](https://wordpress.org/plugins/revisr/) - A plugin that allows users to manage WordPress websites with Git repositories.
