@@ -61,6 +61,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Log Deprecated Notices](https://wordpress.org/plugins/log-deprecated-notices/) - This plugin logs the usage of deprecated files, functions, and function arguments. It identifies where the deprecated functionality is being used and offers the alternative if available.
 * [Link Picker for CMB2](https://wordpress.org/plugins/link-picker-for-cmb2/) - Using the Link Picker for CMB2 control, you can choose a link from your WordPress site, or manually enter a link.
 * [Machete](https://wordpress.org/plugins/machete/) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible.
+* [Manage Notification E-mails](https://wordpress.org/plugins/manage-notification-emails/) - This plugin gives you the option to disable some of the notification e-mails send by Wordpress. It's a simple plugin but effective.
 * [Meta Box](https://wordpress.org/plugins/meta-box/) - Meta Box plugin is a powerful, professional toolkit for developers to create and handle everything related to custom meta boxes and custom fields for WordPress.
 * [MB Comment Meta](https://wordpress.org/plugins/mb-comment-meta/) - Add custom fields (meta data) for comments.
 * [MB Custom Post Type](https://github.com/rilwis/mb-custom-post-type) - MB Custom Post Type helps you to create and manage custom post types and custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
