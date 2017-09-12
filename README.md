@@ -112,7 +112,8 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Underscores](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there.
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
 * [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
-* [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
+* [User Session Control](https://wordpress.org/plugins/user-switching/) - View and manage all active user sessions in a custom admin screen.
+* [User Switching](https://wordpress.org/plugins/user-session-control/) - Instant switching between user accounts in WordPress.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
 * [What The File](https://wordpress.org/plugins/what-the-file/) - What The File adds an option to your toolbar showing what file and template parts are used to display the page you are currently viewing. You can click the file name to directly edit it through the theme editor. Supports BuddyPress and Roots Theme.
 * [Widget Options](https://wordpress.org/plugins/widget-options/) - Additional Widget options for better widget control.
