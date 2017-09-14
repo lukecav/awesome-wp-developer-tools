@@ -118,6 +118,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
 * [What The File](https://wordpress.org/plugins/what-the-file/) - What The File adds an option to your toolbar showing what file and template parts are used to display the page you are currently viewing. You can click the file name to directly edit it through the theme editor. Supports BuddyPress and Roots Theme.
 * [Widget Options](https://wordpress.org/plugins/widget-options/) - Additional Widget options for better widget control.
+* [WP-API Response Modify](https://github.com/outlandishideas/wp-api-response-modify) - Makes response JSON from the WP API sensible.
 * [WP Background Processing](https://github.com/A5hleyRich/wp-background-processing) - Asynchronous requests and background processing in WordPress.
 * [WP Browser](https://github.com/lucatume/wp-browser) - A WordPress specific set of extensions for Codeception.
 * [WP Codeception](https://github.com/10up/wp-codeception) - Registers WP-CLI commands which allow you to execute Codeception tests.
