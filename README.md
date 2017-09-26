@@ -90,7 +90,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Piklist](https://github.com/piklist/piklist) - The most powerful framework available for WordPress.
 * [Public Post Preview](https://wordpress.org/plugins/public-post-preview/) - Enables you to give a link to anonymous users for public preview of any post type before it is published.
 * [Options Pixie](https://wordpress.org/plugins/options-pixie/) - List, filter, sort and view options records, even serialized and base64 encoded values.
-* [Redirect Front-end to Login | Headless WP](https://wordpress.org/plugins/redirect-front-end-to-login-headless-wp/) - Redirects all front-end pages to the login page, best for building a headless WP REST API backend
+* [Redirect Front-end to Login | Headless WP](https://wordpress.org/plugins/redirect-front-end-to-login-headless-wp/) - Redirects all front-end pages to the login page, best for building a headless WP REST API backend.
 * [Remove WP Meta Tags and Links](https://wordpress.org/plugins/remove-wp-meta-tags/) - It is a very lightweight plugin for enable, disable or remove the unwanted meta tags and links from the source code.
 * [REST API Multiple Post Types](https://wordpress.org/plugins/rest-api-multiple-post-types/) - Query for multiple post types on the default post route.
 * [REST API Taxonomy Boxes](https://github.com/talyes-in/rest-api-taxonomy-boxes) - Update the default WordPress Taxonomy Meta Boxes to use Backbone.js and the REST API.
