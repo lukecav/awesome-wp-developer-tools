@@ -78,6 +78,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Multisite Post Duplicator Auto Post](https://github.com/magicstickuk/multisite-post-duplicator-auto-post) - Auto duplicate posts to a select range of sites on save of post.
 * [New Project Boilerplate](https://github.com/craigsimps/new-project-boilerplate) - Using Composer and WPStarter, this repository is used to kick off new WordPress projects and installs WordPress, Genesis, my Genesis starter theme and common plugins (free and premium). Premium plugins are made available using SatisPress.
 * [New User Approve](https://wordpress.org/plugins/new-user-approve/) - Allow administrators to approve users once they register. Only approved users will be allowed to access the site.
+* [NinjaDB](https://wordpress.org/plugins/ninjadb/) - Query Builder Database Wrapper for WordPress, Build for developers by developers.
 * [PAP Texturize](https://github.com/gitlost/pap-texturize) - Patch-as-plugin that texturizes text containing inline HTML tags.
 * [Permalink Manager Lite](https://wordpress.org/plugins/permalink-manager/) - Most advanced Permalink utility for Wordpress. It allows to bulk edit the permalinks & permastructures and regenerate/reset all the URIs in your Wordpress instance.
 * [PHP Settings](https://wordpress.org/plugins/php-settings/) - This plugin provides a simple user interface with a code editor to edit your local php.ini settings.
