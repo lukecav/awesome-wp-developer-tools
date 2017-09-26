@@ -45,6 +45,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Dobby](https://wordpress.org/plugins/wp-dobby/) - Dobby, the friendly Admin Elf, takes care of all your (unwanted) admin notices.
 * [Dovedi](https://github.com/ericmann/dovedi) - Time-based One Time Password authentication for WordPress.
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post-littlebizzy/) - Easily duplicate (clone) any blog post, custom post, or page in WordPress which are then saved in Draft mode, saving you tons of time and headache.
+* [Duplicate Page](https://wordpress.org/plugins/duplicate-page/) - Duplicate Posts, Pages and Custom Posts using single click.
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Manage and disable WordPress updates, including core, plugin, theme, and automatic updates - Works with Multisite and has built-in logging features.
 * [Easy Query](https://wordpress.org/plugins/easy-query/) - Easy Query is the fastest and simplest way to build and display WordPress queries without writing a single line of code.
 * [Extended CPTs](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types, allowing developers to quickly build custom post types without having to write the same code again and again.
