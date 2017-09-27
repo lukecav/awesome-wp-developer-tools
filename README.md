@@ -131,6 +131,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
 * [WP Dashboard Cleaner](https://wordpress.org/plugins/wp-dashboard-cleaner/) - The Admin can remove unwanted widgets / sections from your WordPress Dashboard.
 * [WP Deploy Flow](https://wordpress.org/plugins/wp-deploy-flow/) - Deploy to and from remote environments.
+* [WP Widget Disable](https://wordpress.org/plugins/wp-widget-disable/) - Disable Sidebar and Dashboard Widgets with an easy to use interface. Simply use the checkboxes provided under Appearance -> Disable Widgets and select the Widgets you'd like to hide.
 * [WP Easy Updates](https://github.com/AyeCode/wp-easy-updates) - Update plugins provided by EDD software licencing or via github with ease.
 * [WP Force Lowercase URLs](https://wordpress.org/plugins/wp-force-lowercase-urls/) - Redirect uppercase URLs to lowercase.
 * [WPFront User Role Editor](https://wordpress.org/plugins/wpfront-user-role-editor/) - WPFront User Role Editor plugin allows you to easily manage WordPress user roles within your site.
