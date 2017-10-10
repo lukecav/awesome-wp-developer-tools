@@ -26,6 +26,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Cleanup Multisite DB Tables (WP-CLI Custom Command)](https://github.com/shawnhooper/delete-orphaned-multisite-tables) - Finds and delete orphaned tables in a WordPress Multisite network using WP-CLI.
 * [CMB2 Attached Posts Field](https://github.com/CMB2/cmb2-attached-posts) - Custom field for Custom Metaboxes and Fields for WordPress for attaching posts to a page.
 * [CMB2 Code Snippet Library](https://github.com/CMB2/CMB2-Snippet-Library) - This is a community-maintained repository of code snippets that help modify the default behavior of CMB2.
+* [CMB2 Conditionals](https://github.com/jcchavezs/cmb2-conditionals) - Plugin to establish conditional relationships between fields in a CMB2 metabox.
 * [CMB2 Post Search field](https://github.com/CMB2/CMB2-Post-Search-field) - Custom field for CMB2 which adds a post-search dialog for searching/attaching other post IDs.
 * [CMB2 Group Map](https://github.com/CMB2/cmb2-group-map) - This CMB2 addon allows you to use CMB2 group fields to manage custom post type entries.
 * [CMB2 Related Links](https://github.com/CMB2/CMB2-Related-Links) - Special CMB2 Field that allows users to add a related links repeating field group.
