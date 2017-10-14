@@ -125,7 +125,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
 * [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
 * [User Session Control](https://wordpress.org/plugins/user-switching/) - View and manage all active user sessions in a custom admin screen.
-* [User Switching](https://wordpress.org/plugins/user-session-control/) - Instant switching between user accounts in WordPress.
+* [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 * [Vevida Optimizer](https://wordpress.org/plugins/vevida-optimizer/) - Configure automatic updates for each WordPress component, and optimize the mySQL database tables.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
 * [What The File](https://wordpress.org/plugins/what-the-file/) - What The File adds an option to your toolbar showing what file and template parts are used to display the page you are currently viewing. You can click the file name to directly edit it through the theme editor. Supports BuddyPress and Roots Theme.
