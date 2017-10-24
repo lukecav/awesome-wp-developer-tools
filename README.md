@@ -34,6 +34,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [CMB2 Tabs](https://wordpress.org/plugins/cmb2-tabs/) - CMB2 Tabs is an extenstion for CMB2 which allow you to oragnize fields into tabs.
 * [CMB2 Term Select](https://github.com/CMB2/cmb2-term-select) - Select terms to associate with your content.
 * [Change Username](https://wordpress.org/plugins/cmb2/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
+* [Classic Editor](https://wordpress.org/plugins/classic-editor/) - Enables the WordPress classic editor and the old-style Edit Post screen layout (TinyMCE, meta boxes, etc.). Supports the older pluhins that extend this screen.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/) - The only cookie consent plugin you'll ever need.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
