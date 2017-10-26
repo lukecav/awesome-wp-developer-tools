@@ -148,6 +148,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Hide & Security Enhancer](https://wordpress.org/plugins/wp-hide-security-enhancer/) - Hide and increase Security for your WordPress website instance using smart techniques. No files are changed on your server.
 * [WP Inspect](https://wordpress.org/plugins/wp-inspect/) - The WordPress Debug Plugin.
 * [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
+* [WP Original Media Path](https://wordpress.org/plugins/wp-original-media-path/) - Change the location for the uploads folder for WordPress.
 * [WordPress-Gear](https://github.com/wecodemore/WordPress-Gear) - A bunch of gear for WP developers.
 * [WP Query Console](https://wordpress.org/plugins/wp-query-console/) - Handy tool for developers to quickly test various WordPress queries (WP_Query, WP_User_Query, WP_Comment_Query, WP_Term_Query, WP_Network_Query, WP_Site_Query). Simply provide your arguments array and select the query type you would like to test. 
 * [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
