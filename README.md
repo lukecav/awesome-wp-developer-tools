@@ -75,6 +75,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [MB Comment Meta](https://wordpress.org/plugins/mb-comment-meta/) - Add custom fields (meta data) for comments.
 * [MB Custom Post Type](https://github.com/rilwis/mb-custom-post-type) - MB Custom Post Type helps you to create and manage custom post types and custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
 * [Meta Box for WordPress SEO](https://github.com/rilwis/mb-yoast-seo) - Meta Box for WordPress SEO is a free extension for Meta Box plugin which allows developers to add content of custom fields to Yoast SEO Content Analysis to have better SEO score.
+* [MetaShortcode](https://wordpress.org/plugins/metashortcode/) - Use custom fields as shortcode in post content.
 * [MB Rest API](https://github.com/rilwis/mb-rest-api) - MB Rest API is an extension of the Meta Box plugin which pulls all custom fields' values (meta value) from posts, pages, custom post types, terms into the WordPress REST API responses under 'meta_box' key.
 * [MB Custom Taxonomy](https://github.com/rilwis/mb-custom-taxonomy) - MB Custom Taxonomy helps you to create and manage custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
 * [Meta Pixie](https://wordpress.org/plugins/meta-pixie/) - List, filter, sort and view commentmeta, postmeta, termmeta, sitemeta and usermeta records, even serialized and base64 encoded values.
