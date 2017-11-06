@@ -17,6 +17,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Attachments](https://wordpress.org/plugins/attachments/) - Attachments gives the ability to append any number of Media Library items to Pages, Posts, and Custom Post Types.
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
+* [BE Media from Production](https://github.com/billerickson/BE-Media-from-Production) - Uses local media when available, and uses the production server for the rest.
 * [Better Font Awesome](https://wordpress.org/plugins/better-font-awesome/) - The ultimate Font Awesome icon plugin for WordPress.
 * [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - When moving your WordPress site to a new domain or server, you will likely run into a need to run a search/replace on the database for everything to work correctly.
 * [Blackhole for Bad Bots](https://wordpress.org/plugins/blackhole-bad-bots/) - Protects your site against bad bots by trapping them in a blackhole.
