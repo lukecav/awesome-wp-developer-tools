@@ -48,6 +48,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
 * [Disable Gutenberg Dashboard](https://github.com/lukecav/disable-gutenberg-dashboard) - Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
+* [Dismiss "try Gutenberg" Nag Dashboard Widget](https://wordpress.org/plugins/dismiss-gutenberg-nag/) - Dismiss 'try Gutenberg" nag, dashboard widget, when is activated, or automatically, when put on mu-plugins directory.
 * [Dobby](https://wordpress.org/plugins/wp-dobby/) - Dobby, the friendly Admin Elf, takes care of all your (unwanted) admin notices.
 * [Dovedi](https://github.com/ericmann/dovedi) - Time-based One Time Password authentication for WordPress.
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post-littlebizzy/) - Easily duplicate (clone) any blog post, custom post, or page in WordPress which are then saved in Draft mode, saving you tons of time and headache.
