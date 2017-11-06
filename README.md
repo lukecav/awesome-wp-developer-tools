@@ -51,6 +51,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Dismiss "try Gutenberg" Nag Dashboard Widget](https://wordpress.org/plugins/dismiss-gutenberg-nag/) - Dismiss 'try Gutenberg" nag, dashboard widget, when is activated, or automatically, when put on mu-plugins directory.
 * [Dobby](https://wordpress.org/plugins/wp-dobby/) - Dobby, the friendly Admin Elf, takes care of all your (unwanted) admin notices.
 * [Dovedi](https://github.com/ericmann/dovedi) - Time-based One Time Password authentication for WordPress.
+* [Duplicate Menu](https://wordpress.org/plugins/duplicate-menu/) - Easily duplicate your WordPress Menus.
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post-littlebizzy/) - Easily duplicate (clone) any blog post, custom post, or page in WordPress which are then saved in Draft mode, saving you tons of time and headache.
 * [Duplicate Page](https://wordpress.org/plugins/duplicate-page/) - Duplicate Posts, Pages and Custom Posts using single click.
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Manage and disable WordPress updates, including core, plugin, theme, and automatic updates - Works with Multisite and has built-in logging features.
