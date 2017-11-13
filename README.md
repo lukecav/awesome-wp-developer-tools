@@ -131,6 +131,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) - Allows the disabling of wpautop filter on a Post by Post basis. Toggle can also be enabled on a Post Type by Post Type basis or globally.
 * [Transients Manager](https://wordpress.org/plugins/transients-manager/) - Provides a UI to manage your site's transients. You can view, search, edit, and delete transients at will.
 * [TranslatePress](https://wordpress.org/plugins/translatepress-multilingual/) - Experience a better way of translating your WordPress site, with full support for WooCommerce and site builders.
+* [Trigger Happy](https://wordpress.org/plugins/trigger-happy/) - Connect your plugins and automate your workflow with Trigger Happy - a powerful flow-based visual scripting and automation tool.
 * [Two Factor Authentication](https://wordpress.org/plugins/two-factor-authentication/) - Secure your WordPress login forms with two factor authentication - including WooCommerce login forms.
 * [Underscores](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there.
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
