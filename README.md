@@ -9,6 +9,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Advanced iFrame](https://wordpress.org/plugins/advanced-iframe/) - This plugin includes any webpage as shortcode in an advanced iframe or embeds the content directly.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [Advanced Bulk Actions](https://wordpress.org/plugins/bulk-actions/) - Advanced Bulk Actions is a WordPress plugin that adds new bulk actions to your admin panel on the posts, pages and users overviews.
+* [Advanced Forms Processors](https://wordpress.org/plugins/acf-processors/) -  Adds form processors to the Advanced Forms plugin.
 * [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - Manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel. Transform the WordPress admin screens into beautiful, clear overviews.
 * [Admin Menu Editor](https://wordpress.org/plugins/admin-menu-editor/) - Admin Menu Editor lets you manually edit the Dashboard menu. You can reorder the menus, show/hide specific items, change premissions, and more.
 * [Admin Trim Interface](https://wordpress.org/plugins/admin-trim-interface/) - This plugin uses a combination of WordPress hooks, CSS (when possible), and Javascript (last resort) to removed specified admin interface elements.
