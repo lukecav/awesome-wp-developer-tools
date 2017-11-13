@@ -1,4 +1,4 @@
-# awesome-wp-developer-tools
+# Awesome WP Developer Tools
 A collection of plugins, starter themes and tools to make WordPress development easier.
 
 * [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unweildy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healther Option helps your options table get back into shape.
