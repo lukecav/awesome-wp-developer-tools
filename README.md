@@ -75,6 +75,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 * [Laravel DD for WordPress](https://wordpress.org/plugins/laravel-dd/) - Use Laravel's dd() (die dump) function in your WordPress projects.
 * [Locomotive](https://github.com/reaktivstudios/locomotive) - Run custom batch processes from the WP admin.
+* [Loco Translate](https://wordpress.org/plugins/loco-translate/) - Translate themes and plugins directly in WordPress.
 * [Log Deprecated Notices](https://wordpress.org/plugins/log-deprecated-notices/) - This plugin logs the usage of deprecated files, functions, and function arguments. It identifies where the deprecated functionality is being used and offers the alternative if available.
 * [Link Picker for CMB2](https://wordpress.org/plugins/link-picker-for-cmb2/) - Using the Link Picker for CMB2 control, you can choose a link from your WordPress site, or manually enter a link.
 * [Machete](https://wordpress.org/plugins/machete/) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible.
