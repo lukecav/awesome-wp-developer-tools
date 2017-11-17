@@ -52,6 +52,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Debug Objects](https://wordpress.org/plugins/debug-objects/) - List filter and action-hooks, cache data, defined constants, queries, included scripts and styles, php and memory information and return of conditional tags only for admins, for debug, information or learning purposes.
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
+* [Dev Content Blocks](https://wordpress.org/plugins/dev-content-blocks/) - This plugin adds content blocks with HTML, JS, and CSS blocks to be called by using a shortcode.
 * [Disable Emails](https://wordpress.org/plugins/disable-emails/) - Stop WordPress from sending any emails.
 * [Disable Gutenberg Dashboard](https://github.com/lukecav/disable-gutenberg-dashboard) - Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
 * [Dismiss "try Gutenberg" Nag Dashboard Widget](https://wordpress.org/plugins/dismiss-gutenberg-nag/) - Dismiss 'try Gutenberg" nag, dashboard widget, when is activated, or automatically, when put on mu-plugins directory.
