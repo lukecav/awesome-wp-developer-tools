@@ -82,6 +82,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Machete](https://wordpress.org/plugins/machete/) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible.
 * [Manage Notification E-mails](https://wordpress.org/plugins/manage-notification-emails/) - This plugin gives you the option to disable some of the notification e-mails send by Wordpress. It's a simple plugin but effective.
 * [Meta Box](https://wordpress.org/plugins/meta-box/) - Meta Box plugin is a powerful, professional toolkit for developers to create and handle everything related to custom meta boxes and custom fields for WordPress.
+* [Meta Box - FacetWP Integrator](https://github.com/wpmetabox/meta-box-facetwp-integrator) - Integrates Meta Box custom fields with FacetWP.
 * [MB Comment Meta](https://wordpress.org/plugins/mb-comment-meta/) - Add custom fields (meta data) for comments.
 * [MB Custom Post Type](https://github.com/rilwis/mb-custom-post-type) - MB Custom Post Type helps you to create and manage custom post types and custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
 * [Meta Box for WordPress SEO](https://github.com/rilwis/mb-yoast-seo) - Meta Box for WordPress SEO is a free extension for Meta Box plugin which allows developers to add content of custom fields to Yoast SEO Content Analysis to have better SEO score.
