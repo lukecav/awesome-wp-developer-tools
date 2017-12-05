@@ -72,6 +72,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [FastDev](https://wordpress.org/plugins/fresh-plugins/) - Provides helpful information and functions for WordPress developers to make the development even faster.
 * [Fresh Plugins](https://wordpress.org/plugins/fastdev/) - A simple plugin to allow fresh plugin re-installation of plugins from WordPress.org.
 * [Gitium](https://wordpress.org/plugins/gitium/) - Keep all your code on git version control system.
+* [Hide all notices in wp admin](https://github.com/pmgarman/hide-admin-notices) - Uses CSS to hide standard WordPress admin notices.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
 * [Inactive Logout](https://wordpress.org/plugins/inactive-logout/) - Inactive logout provides functionality to log out any idle users defined specified time showing a message. Works for frontend as well.
 * [Invalid Login Redirect](https://github.com/CodeParrots/Invalid-Login-Redirect) - Invalid Login Redirect is a WordPress plugin that allows you to specify the number of times a user can enter invalid credentials before being redirected to a custom page of your choosing.
