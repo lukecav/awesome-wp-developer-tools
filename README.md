@@ -70,6 +70,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Expire Users](https://wordpress.org/plugins/expire-users/) - Set expiry dates for user logins.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress instalation, great for developers who need testing.
 * [FastDev](https://wordpress.org/plugins/fresh-plugins/) - Provides helpful information and functions for WordPress developers to make the development even faster.
+* [Favorites](https://github.com/kylephillips/favorites) - Simple and flexible favorite buttons for any post type.
 * [Fresh Plugins](https://wordpress.org/plugins/fastdev/) - A simple plugin to allow fresh plugin re-installation of plugins from WordPress.org.
 * [Gitium](https://wordpress.org/plugins/gitium/) - Keep all your code on git version control system.
 * [Hide all notices in wp admin](https://github.com/pmgarman/hide-admin-notices) - Uses CSS to hide standard WordPress admin notices.
