@@ -37,6 +37,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [CMB2 Post Search field](https://github.com/CMB2/CMB2-Post-Search-field) - Custom field for CMB2 which adds a post-search dialog for searching/attaching other post IDs.
 * [CMB2 Group Map](https://github.com/CMB2/cmb2-group-map) - This CMB2 addon allows you to use CMB2 group fields to manage custom post type entries.
 * [CMB2 Markdown](https://github.com/Rekenna/cmb2-markdown) - Adds a Markdown enabled textarea with a live preview to the available CMB2 fields.
+* [CMB2 Metatabs Options](https://github.com/rogerlos/cmb2-metatabs-options) - Add admin option pages with multiple metaboxes--and place those metaboxes into optional tabs. Requires CMB2.
 * [CMB2 Related Links](https://github.com/CMB2/CMB2-Related-Links) - Special CMB2 Field that allows users to add a related links repeating field group.
 * [CMB2 Tabs](https://wordpress.org/plugins/cmb2-tabs/) - CMB2 Tabs is an extenstion for CMB2 which allow you to oragnize fields into tabs.
 * [CMB2 Term Select](https://github.com/CMB2/cmb2-term-select) - Select terms to associate with your content.
