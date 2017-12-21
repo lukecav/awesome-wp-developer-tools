@@ -4,6 +4,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unweildy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healther Option helps your options table get back into shape.
 * [AceIDE](https://wordpress.org/plugins/aceide/) - AceIDE is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins.
 * [Add Admin CSS](https://wordpress.org/plugins/add-admin-css/) - Interface for easily defining additional CSS (inline and/or by URL) to be added to all administration pages.
+* [Admin Menu in Frontend](https://wordpress.org/plugins/admin-menu-in-frontend/) - Allows to show admin menu when viewing site.
 * [Admin Select Box To Select2](https://wordpress.org/plugins/admin-select-box-to-select2/) - This plugin is used to convert all simple Select boxes to Select2.
 * [Advanced Options Editor](https://wordpress.org/plugins/advanced-options-editor/) - Edit WP Options from the WordPress Dashboard.
 * [Advanced iFrame](https://wordpress.org/plugins/advanced-iframe/) - This plugin includes any webpage as shortcode in an advanced iframe or embeds the content directly.
