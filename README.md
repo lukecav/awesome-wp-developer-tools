@@ -179,6 +179,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Query Console](https://wordpress.org/plugins/wp-query-console/) - Handy tool for developers to quickly test various WordPress queries (WP_Query, WP_User_Query, WP_Comment_Query, WP_Term_Query, WP_Network_Query, WP_Site_Query). Simply provide your arguments array and select the query type you would like to test. 
 * [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
 * [WP Rest API Customizer](https://wordpress.org/plugins/wp-rest-api-customizer/) - Customize the WP REST API endpoints to improve your app speed and performance by adding or removing objects fron JSON response.
+* [WP REST Allow All CORS](https://github.com/ahmadawais/WP-REST-Allow-All-CORS) - Allow all cross origin requests to your WordPress site's REST API.
 * [WP Reset](https://wordpress.org/plugins/wp-reset/) - It’s Resets the your database to the default installation and does not modify files. Deletes all customizations and content of wordpress.
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - Rollback (or forward) any WordPress.org plugin or theme like a boss. 
 * [WP Site Replicator](https://github.com/kasparsd/wp-cli-replicator) - Quickly create replicas of large production websites from WordPress eXtended RSS (WXR) export files.
