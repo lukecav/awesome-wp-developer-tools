@@ -57,6 +57,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
 * [Dev Content Blocks](https://wordpress.org/plugins/dev-content-blocks/) - This plugin adds content blocks with HTML, JS, and CSS blocks to be called by using a shortcode.
+* [Disable admin notices individually](https://wordpress.org/plugins/disable-admin-notices/) - Disable admin notices plugin gives you the option to hide updates warnings and inline notices in the admin panel.
 * [Disable Emails](https://wordpress.org/plugins/disable-emails/) - Stop WordPress from sending any emails.
 * [Disable Gutenberg Dashboard](https://github.com/lukecav/disable-gutenberg-dashboard) - Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
 * [Dismiss "try Gutenberg" Nag Dashboard Widget](https://wordpress.org/plugins/dismiss-gutenberg-nag/) - Dismiss 'try Gutenberg" nag, dashboard widget, when is activated, or automatically, when put on mu-plugins directory.
