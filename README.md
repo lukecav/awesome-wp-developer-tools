@@ -58,6 +58,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Classic Editor](https://wordpress.org/plugins/classic-editor/) - Enables the WordPress classic editor and the old-style Edit Post screen layout (TinyMCE, meta boxes, etc.). Supports the older pluhins that extend this screen.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/) - The only cookie consent plugin you'll ever need.
+* [Cron Logger](https://wordpress.org/plugins/cron-logger/) - Logs for cron runs.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Custom Field Suite](https://wordpress.org/plugins/custom-field-suite/) - Visually add custom fields to your WordPress edit pages.
 * [Custom Field Suite Options Screens](https://wordpress.org/plugins/cfs-options-screens/) - Register options screens powered by Custom Field Suite.
