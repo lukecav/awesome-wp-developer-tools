@@ -35,6 +35,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [BE Media from Production](https://github.com/billerickson/BE-Media-from-Production) - Uses local media when available, and uses the production server for the rest.
 * [Better Font Awesome](https://wordpress.org/plugins/better-font-awesome/) - The ultimate Font Awesome icon plugin for WordPress.
 * [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - When moving your WordPress site to a new domain or server, you will likely run into a need to run a search/replace on the database for everything to work correctly.
+* [Better WordPress Admin API](https://github.com/luizbills/better-wordpress-admin-api) - A better way to build admin pages and options for you plugins/themes.
 * [Blackhole for Bad Bots](https://wordpress.org/plugins/blackhole-bad-bots/) - Protects your site against bad bots by trapping them in a blackhole.
 * [BRAD](https://wordpress.org/plugins/brad/) - Better Responsility Around Discoverability.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
