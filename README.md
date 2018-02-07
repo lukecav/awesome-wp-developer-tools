@@ -33,6 +33,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
 * [AutomatePlus – Mautic for WordPress](https://wordpress.org/plugins/automate-mautic/) - Add registered WP users and commentors to mautic contacts.
 * [BE Media from Production](https://github.com/billerickson/BE-Media-from-Production) - Uses local media when available, and uses the production server for the rest.
+* [BEA – Sanitize Filename](https://wordpress.org/plugins/bea-sanitize-filename/) - Remove all punctuation and accents from the filename of uploaded files.
 * [Better Font Awesome](https://wordpress.org/plugins/better-font-awesome/) - The ultimate Font Awesome icon plugin for WordPress.
 * [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - When moving your WordPress site to a new domain or server, you will likely run into a need to run a search/replace on the database for everything to work correctly.
 * [Better WordPress Admin API](https://github.com/luizbills/better-wordpress-admin-api) - A better way to build admin pages and options for you plugins/themes.
