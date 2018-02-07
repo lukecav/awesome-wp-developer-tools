@@ -41,9 +41,9 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [BRAD](https://wordpress.org/plugins/brad/) - Better Responsility Around Discoverability.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
 * [Bulk Change Role](https://wordpress.org/plugins/bulk-role-change/) - Transfer all users from one role to another.
-* [Carbon Fields](https://github.com/humanmade/Cavalcade) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
+* [Carbon Fields]((https://wordpress.org/plugins/carbon-fields/) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
 * [Carbon Field: Display Checkbox](https://github.com/statenweb/carbon-field-display-checkbox) - Display Field extension for Carbon Fields. Displays "yes" instead of 1 for displaying checkbox values.
-* [Cavalcade](https://wordpress.org/plugins/carbon-fields/) - A better wp-cron. Horizontally scalable, works perfectly with multisite.
+* [Cavalcade](https://github.com/humanmade/Cavalcade) - A better wp-cron. Horizontally scalable, works perfectly with multisite.
 * [CF7 to Zapier](https://wordpress.org/plugins/cf7-to-zapier/) - Use Contact Form 7 as a trigger to Zapier.
 * [Cleanup Multisite DB Tables (WP-CLI Custom Command)](https://github.com/shawnhooper/delete-orphaned-multisite-tables) - Finds and delete orphaned tables in a WordPress Multisite network using WP-CLI.
 * [CMB2 Attached Posts Field](https://github.com/CMB2/cmb2-attached-posts) - Custom field for Custom Metaboxes and Fields for WordPress for attaching posts to a page.
