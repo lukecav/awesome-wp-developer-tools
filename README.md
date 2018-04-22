@@ -73,6 +73,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Dev Content Blocks](https://wordpress.org/plugins/dev-content-blocks/) - This plugin adds content blocks with HTML, JS, and CSS blocks to be called by using a shortcode.
 * [Disable admin notices individually](https://wordpress.org/plugins/disable-admin-notices/) - Disable admin notices plugin gives you the option to hide updates warnings and inline notices in the admin panel.
 * [Disable Emails](https://wordpress.org/plugins/disable-emails/) - Stop WordPress from sending any emails.
+* [Disable Gutenberg](https://wordpress.org/plugins/disable-gutenberg/) - Completely disable Gutenberg Editor sitewide or for specific post types.
 * [Disable Gutenberg Dashboard](https://github.com/lukecav/disable-gutenberg-dashboard) - Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
 * [Dismiss "try Gutenberg" Nag Dashboard Widget](https://wordpress.org/plugins/dismiss-gutenberg-nag/) - Dismiss 'try Gutenberg" nag, dashboard widget, when is activated, or automatically, when put on mu-plugins directory.
 * [Dobby](https://wordpress.org/plugins/wp-dobby/) - Dobby, the friendly Admin Elf, takes care of all your (unwanted) admin notices.
