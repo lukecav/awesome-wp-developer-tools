@@ -72,6 +72,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
 * [Dev Content Blocks](https://wordpress.org/plugins/dev-content-blocks/) - This plugin adds content blocks with HTML, JS, and CSS blocks to be called by using a shortcode.
+* [Digital Ocean Spaces Sync](https://wordpress.org/plugins/do-spaces-sync/) - This WordPress plugin syncs your media library with Digital Ocean Spaces Container.
 * [Disable admin notices individually](https://wordpress.org/plugins/disable-admin-notices/) - Disable admin notices plugin gives you the option to hide updates warnings and inline notices in the admin panel.
 * [Disable Emails](https://wordpress.org/plugins/disable-emails/) - Stop WordPress from sending any emails.
 * [Disable Gutenberg](https://wordpress.org/plugins/disable-gutenberg/) - Completely disable Gutenberg Editor sitewide or for specific post types.
