@@ -95,6 +95,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [FastDev](https://wordpress.org/plugins/fresh-plugins/) - Provides helpful information and functions for WordPress developers to make the development even faster.
 * [Favorites](https://github.com/kylephillips/favorites) - Simple and flexible favorite buttons for any post type.
 * [Fresh Plugins](https://wordpress.org/plugins/fastdev/) - A simple plugin to allow fresh plugin re-installation of plugins from WordPress.org.
+* [GDPR Data Request Form](https://wordpress.org/plugins/gdpr-data-request-form/) - Integrates WordPress Core 4.9.6 GDPR tools to allow users/visitors to request Personal Data export/erasure with front-end forms.
 * [Gitium](https://wordpress.org/plugins/gitium/) - Keep all your code on git version control system.
 * [Hide all notices in wp admin](https://github.com/pmgarman/hide-admin-notices) - Uses CSS to hide standard WordPress admin notices.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
