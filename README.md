@@ -196,6 +196,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Hammer](https://github.com/10up/wp-hammer) - This plugin adds a wp-cli ha command to clean your environment and prepare it for staging / development by removing Personally Identi.fiable Information.
 * [WP Hide & Security Enhancer](https://wordpress.org/plugins/wp-hide-security-enhancer/) - Hide and increase Security for your WordPress website instance using smart techniques. No files are changed on your server.
 * [WP Inspect](https://wordpress.org/plugins/wp-inspect/) - The WordPress Debug Plugin.
+* [WP Migrate DB Anonymization](https://wordpress.org/plugins/wp-migrate-db-anonymization/) - An extension to WP Migrate DB and WP Migrate DB Pro that anonymizes user data.
 * [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
 * [WP Original Media Path](https://wordpress.org/plugins/wp-original-media-path/) - Change the location for the uploads folder for WordPress.
 * [WordPress-Gear](https://github.com/wecodemore/WordPress-Gear) - A bunch of gear for WP developers.
