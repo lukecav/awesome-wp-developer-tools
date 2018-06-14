@@ -121,6 +121,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [MB Custom Taxonomy](https://github.com/rilwis/mb-custom-taxonomy) - MB Custom Taxonomy helps you to create and manage custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
 * [Meta Pixie](https://wordpress.org/plugins/meta-pixie/) - List, filter, sort and view commentmeta, postmeta, termmeta, sitemeta and usermeta records, even serialized and base64 encoded values.
 * [Minimum Featured Image Size](https://wordpress.org/plugins/minimum-featured-image-size/) - Set the minimum size required for featured images.
+* [My Simple Space](https://wordpress.org/plugins/my-simple-space/) - Shows the diskspace and memory usage of your site.
 * [Multisite Enhancements](https://wordpress.org/plugins/multisite-enhancements/) - Enhance Multisite for Network Admins with different topics.
 * [Multisite Post Duplicator](https://wordpress.org/plugins/multisite-post-duplicator/) - Duplicate/Copy/Clone any individual page, post or custom post type from one site on your multisite network to another.
 * [Multisite Post Duplicator Auto Post](https://github.com/magicstickuk/multisite-post-duplicator-auto-post) - Auto duplicate posts to a select range of sites on save of post.
