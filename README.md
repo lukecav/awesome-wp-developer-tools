@@ -111,6 +111,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Link Picker for CMB2](https://wordpress.org/plugins/link-picker-for-cmb2/) - Using the Link Picker for CMB2 control, you can choose a link from your WordPress site, or manually enter a link.
 * [Machete](https://wordpress.org/plugins/machete/) - Machete is a simple suite of tools that solve common WordPress annoyances using as few resources as posible.
 * [Manage Notification E-mails](https://wordpress.org/plugins/manage-notification-emails/) - This plugin gives you the option to disable some of the notification e-mails send by Wordpress. It's a simple plugin but effective.
+* [Media from Production](https://github.com/codelight-eu/wp-media-from-production) - Uses local media when it's available, and uses the production server for rest.
 * [Meta Box](https://wordpress.org/plugins/meta-box/) - Meta Box plugin is a powerful, professional toolkit for developers to create and handle everything related to custom meta boxes and custom fields for WordPress.
 * [Meta Box - FacetWP Integrator](https://github.com/wpmetabox/meta-box-facetwp-integrator) - Integrates Meta Box custom fields with FacetWP.
 * [MB Comment Meta](https://wordpress.org/plugins/mb-comment-meta/) - Add custom fields (meta data) for comments.
