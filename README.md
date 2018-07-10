@@ -2,10 +2,10 @@
 A collection of plugins, starter themes and tools to make WordPress development easier.
 
 ## Table Of Contents
-* [Page Caching Plugins](#page-caching-plugins)
-* [Object Caching Plugins](#object-caching-plugins)
+* [WordPress API Libraries](#wordpress-api-libraries)
+* [WordPress Plugins](#wordpress-plugins)
 
-## [WordPress API Libraries](https://github.com/wp-api-libraries) - Matching Third Party APIs with WordPress Developers
+## WordPress API Libraries
 * [wp-api-base](https://github.com/wp-api-libraries/wp-api-base) - Abstract PHP class to build additional WordPress APIs.
 * [wp-api-tester](https://github.com/wp-api-libraries/wp-api-tester) - A plugin for aiding development of APIs and other PHP plugins.
 * [wp-google-cloud-source-api](https://github.com/wp-api-libraries/wp-google-cloud-source-api) - Google Cloud Platform's Cloud DNS API integration.
