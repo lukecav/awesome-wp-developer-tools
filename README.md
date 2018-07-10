@@ -1,7 +1,7 @@
 # Awesome WP Developer Tools
 A collection of plugins, starter themes and tools to make WordPress development easier.
 
-## [WordPress API Libraries](https://github.com/wp-api-libraries) - Matching Third Party APIs with WordPress Developers
+# [WordPress API Libraries](https://github.com/wp-api-libraries) - Matching Third Party APIs with WordPress Developers
 * [wp-api-base](https://github.com/wp-api-libraries/wp-api-base) - Abstract PHP class to build additional WordPress APIs.
 * [wp-api-tester](https://github.com/wp-api-libraries/wp-api-tester) - A plugin for aiding development of APIs and other PHP plugins.
 * [wp-google-cloud-source-api](https://github.com/wp-api-libraries/wp-google-cloud-source-api) - Google Cloud Platform's Cloud DNS API integration.
@@ -12,7 +12,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [wp-deploybot-api](https://github.com/wp-api-libraries/wp-deploybot-api) - Deploybot API integration.
 * [wp-packagist-api](https://github.com/wp-api-libraries/wp-packagist-api) - Composer's Packagist API integration.
 
-## [WordPress Plugins]
+# [WordPress Plugins]
 * [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unweildy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healther Option helps your options table get back into shape.
 * [AceIDE](https://wordpress.org/plugins/aceide/) - AceIDE is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins.
 * [Add Admin CSS](https://wordpress.org/plugins/add-admin-css/) - Interface for easily defining additional CSS (inline and/or by URL) to be added to all administration pages.
