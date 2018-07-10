@@ -12,6 +12,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [wp-deploybot-api](https://github.com/wp-api-libraries/wp-deploybot-api) - Deploybot API integration.
 * [wp-packagist-api](https://github.com/wp-api-libraries/wp-packagist-api) - Composer's Packagist API integration.
 
+## [WordPress Plugins]
 * [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unweildy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healther Option helps your options table get back into shape.
 * [AceIDE](https://wordpress.org/plugins/aceide/) - AceIDE is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins.
 * [Add Admin CSS](https://wordpress.org/plugins/add-admin-css/) - Interface for easily defining additional CSS (inline and/or by URL) to be added to all administration pages.
@@ -59,6 +60,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [CMB2 Term Select](https://github.com/CMB2/cmb2-term-select) - Select terms to associate with your content.
 * [Change Username](https://wordpress.org/plugins/cmb2/) - The Change Username plugin allows you to change the usernames of your WordPress users in an easy and effective way.
 * [Classic Editor](https://wordpress.org/plugins/classic-editor/) - Enables the WordPress classic editor and the old-style Edit Post screen layout (TinyMCE, meta boxes, etc.). Supports the older pluhins that extend this screen.
+* [Classic Editor Addon](https://wordpress.org/plugins/classic-editor-addon/) - The Classic Editor plugin doesn't remove Gutenberg by default. This addon changes that and makes some more changes. See readme.txt for more details.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/) - The only cookie consent plugin you'll ever need.
 * [Cron Logger](https://wordpress.org/plugins/cron-logger/) - Logs for cron runs.
