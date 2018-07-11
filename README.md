@@ -26,6 +26,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Advanced iFrame](https://wordpress.org/plugins/advanced-iframe/) - This plugin includes any webpage as shortcode in an advanced iframe or embeds the content directly.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [Advanced Bulk Actions](https://wordpress.org/plugins/bulk-actions/) - Advanced Bulk Actions is a WordPress plugin that adds new bulk actions to your admin panel on the posts, pages and users overviews.
+* [Advanced Cron Manager – debug & control](https://wordpress.org/plugins/advanced-cron-manager/) - View, pause, remove, edit and add WP Cron events.
 * [Advanced Forms Processors](https://wordpress.org/plugins/acf-processors/) -  Adds form processors to the Advanced Forms plugin.
 * [Advanced Password Security](https://wordpress.org/plugins/advanced-password-security/) -  Force your admins and/or select roles to update their password to a new one after a set amount of time.
 * [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - Manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel. Transform the WordPress admin screens into beautiful, clear overviews.
