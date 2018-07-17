@@ -149,6 +149,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Post Meta Inspector](https://wordpress.org/plugins/post-meta-inspector/) - A quick and easy way to see post meta associated with any given post. When activated, this plugin prints your post meta keys and values inside of a post meta box.
 * [Post Type Switcher](https://wordpress.org/plugins/post-type-switcher/) - This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type.
 * [Piklist](https://github.com/piklist/piklist) - The most powerful framework available for WordPress.
+* [PWA](https://wordpress.org/plugins/pwa/) - Feature plugin to bring Progressive Web App (PWA) capabilities to Core.
 * [Public Post Preview](https://wordpress.org/plugins/public-post-preview/) - Enables you to give a link to anonymous users for public preview of any post type before it is published.
 * [One Call – WP REST API Extension](https://wordpress.org/plugins/one-call/) - Get featured images, categories, tags, taxonomies,custom fields & author details etc all together by one call from WordPress rest api to reduce responsed time.
 * [One-time Callbacks](https://github.com/stevegrunwell/one-time-callbacks) - Enable WordPress actions and filter callbacks to be called exactly once.
