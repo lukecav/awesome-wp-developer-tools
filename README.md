@@ -220,6 +220,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP REST Allow All CORS](https://github.com/ahmadawais/WP-REST-Allow-All-CORS) - Allow all cross origin requests to your WordPress site's REST API.
 * [WP Reset](https://wordpress.org/plugins/wp-reset/) - It’s Resets the your database to the default installation and does not modify files. Deletes all customizations and content of wordpress.
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - Rollback (or forward) any WordPress.org plugin or theme like a boss. 
+* [WP Safe Mode](https://wordpress.org/plugins/wp-safe-mode/) - Safe mode for debugging WordPress issues, without destroying your site for other visitors.
 * [WP Site Replicator](https://github.com/kasparsd/wp-cli-replicator) - Quickly create replicas of large production websites from WordPress eXtended RSS (WXR) export files.
 * [WP Site Monitor](https://github.com/BWibrew/WP-Site-Monitor/) - Provides extra WP REST API endpoints to help manage sites remotely.
 * [WP Plugin Git SVN Sync](https://github.com/rayrutjes/wp-plugin-git-svn-sync) - Zero config synchronizing of Git repository with SVN for publishing WordPress plugins.
