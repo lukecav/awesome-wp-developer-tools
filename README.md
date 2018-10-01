@@ -186,7 +186,6 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [TranslatePress](https://wordpress.org/plugins/translatepress-multilingual/) - Experience a better way of translating your WordPress site, with full support for WooCommerce and site builders.
 * [Trigger Happy](https://wordpress.org/plugins/trigger-happy/) - Connect your plugins and automate your workflow with Trigger Happy - a powerful flow-based visual scripting and automation tool.
 * [Two Factor Authentication](https://wordpress.org/plugins/two-factor-authentication/) - Secure your WordPress login forms with two factor authentication - including WooCommerce login forms.
-* [Underscores](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there.
 * [User Session Control](https://wordpress.org/plugins/user-session-control/) - View and manage all active user sessions in a custom admin screen.
 * [Unyson](https://wordpress.org/plugins/unyson/) - A free drag & drop framework that comes with a bunch of built in extensions that will help you develop premium themes fast & easy.
 * [User Session Control](https://wordpress.org/plugins/user-switching/) - View and manage all active user sessions in a custom admin screen.
@@ -233,3 +232,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Yeoman WordPress Plugin Generator](https://github.com/WebDevStudios/generator-plugin-wp) - Yeoman generator for WordPress plugins.
 * [Upgrade for Unattach and Re-attach Media Attachments](https://wordpress.org/plugins/upgrade-for-unattach-re-attach-media-attachments/) - Unattach and Re-attach images and other attachments from within the media library. The plugin is similar to its predecessors but security and code refactoring has been done.
 * [Uploads by Proxy](https://github.com/pdclark/uploads-by-proxy) - Load images from production site if missing in development environment.
+
+## WordPress Starter Themes
+* [New Project Boilerplate](https://github.com/craigsimps/new-project-boilerplate) - Using Composer and WPStarter, this repository is used to kick off new WordPress projects and installs WordPress, Genesis, my Genesis starter theme and common plugins (free and premium). Premium plugins are made available using SatisPress.
+* [Underscores](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there.
