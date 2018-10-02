@@ -82,6 +82,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Dev Content Blocks](https://wordpress.org/plugins/dev-content-blocks/) - This plugin adds content blocks with HTML, JS, and CSS blocks to be called by using a shortcode.
 * [Digital Ocean Spaces Sync](https://wordpress.org/plugins/do-spaces-sync/) - This WordPress plugin syncs your media library with Digital Ocean Spaces Container.
 * [Disable admin notices individually](https://wordpress.org/plugins/disable-admin-notices/) - Disable admin notices plugin gives you the option to hide updates warnings and inline notices in the admin panel.
+* [Disable Comments](https://wordpress.org/plugins/disable-comments/) - Easily turns off comments across your site if it doesn't fit well with your site's goals.
 * [Disable Emails](https://wordpress.org/plugins/disable-emails/) - Stop WordPress from sending any emails.
 * [Disable Gutenberg](https://wordpress.org/plugins/disable-gutenberg/) - Completely disable Gutenberg Editor sitewide or for specific post types.
 * [Disable Gutenberg Dashboard](https://github.com/lukecav/disable-gutenberg-dashboard) - Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
