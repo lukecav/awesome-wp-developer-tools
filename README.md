@@ -227,6 +227,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Safe Mode](https://wordpress.org/plugins/wp-safe-mode/) - Safe mode for debugging WordPress issues, without destroying your site for other visitors.
 * [WP Site Replicator](https://github.com/kasparsd/wp-cli-replicator) - Quickly create replicas of large production websites from WordPress eXtended RSS (WXR) export files.
 * [WP Site Monitor](https://github.com/BWibrew/WP-Site-Monitor/) - Provides extra WP REST API endpoints to help manage sites remotely.
+* [WP SmartCrop](https://wordpress.org/plugins/wp-smartcrop/) - Allows you to set the ‘focal point’ of any image right from the media library, then crops your images to match your css rules _(no more squished aspect ratios)_, keeping that focal point not only in view but as near as possible to a ‘rule of thirds’ position in the image.
 * [WP Plugin Git SVN Sync](https://github.com/rayrutjes/wp-plugin-git-svn-sync) - Zero config synchronizing of Git repository with SVN for publishing WordPress plugins.
 * [WP Tools (wpt)](https://github.com/gedex/wp-tools) - wp-tools (wpt) is a command line interface to reduce boring tasks when working on WordPress plugin / theme project that will be published to wp.org.
 * [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends WP API with WordPress menu routes.
