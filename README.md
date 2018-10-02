@@ -17,7 +17,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [wp-packagist-api](https://github.com/wp-api-libraries/wp-packagist-api) - Composer's Packagist API integration.
 
 ## WordPress Plugins
-* [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unweildy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healther Option helps your options table get back into shape.
+* [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unwieldy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healthier Option helps your options table get back into shape.
 * [AceIDE](https://wordpress.org/plugins/aceide/) - AceIDE is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins.
 * [Add Admin CSS](https://wordpress.org/plugins/add-admin-css/) - Interface for easily defining additional CSS (inline and/or by URL) to be added to all administration pages.
 * [Admin Menu in Frontend](https://wordpress.org/plugins/admin-menu-in-frontend/) - Allows to show admin menu when viewing site.
@@ -45,7 +45,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - When moving your WordPress site to a new domain or server, you will likely run into a need to run a search/replace on the database for everything to work correctly.
 * [Better WordPress Admin API](https://github.com/luizbills/better-wordpress-admin-api) - A better way to build admin pages and options for you plugins/themes.
 * [Blackhole for Bad Bots](https://wordpress.org/plugins/blackhole-bad-bots/) - Protects your site against bad bots by trapping them in a blackhole.
-* [BRAD](https://wordpress.org/plugins/brad/) - Better Responsility Around Discoverability.
+* [BRAD](https://wordpress.org/plugins/brad/) - Better Responsibility Around Discoverability.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
 * [Bulk Change Role](https://wordpress.org/plugins/bulk-role-change/) - Transfer all users from one role to another.
 * [Carbon Fields](https://wordpress.org/plugins/carbon-fields/) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
@@ -100,7 +100,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Extended Taxonomies](https://github.com/johnbillion/extended-taxos) - A library which provides extended functionality to WordPress custom taxonomies, allowing you to quickly build custom taxonomies without having to write the same code again and again.
 * [Expire Password Protected Pages](https://wordpress.org/plugins/expire-password-protected-pages/) - This plugin will require visitors to type in the password each time they are visiting a password protected page. This will also prevent the page from being accessible if someone types in the password on a public computer.
 * [Expire Users](https://wordpress.org/plugins/expire-users/) - Set expiry dates for user logins.
-* [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress instalation, great for developers who need testing.
+* [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress installation, great for developers who need testing.
 * [FastDev](https://wordpress.org/plugins/fresh-plugins/) - Provides helpful information and functions for WordPress developers to make the development even faster.
 * [Favorites](https://github.com/kylephillips/favorites) - Simple and flexible favorite buttons for any post type.
 * [Fresh Plugins](https://wordpress.org/plugins/fastdev/) - A simple plugin to allow fresh plugin re-installation of plugins from WordPress.org.
