@@ -39,6 +39,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
 * [AutomatePlus – Mautic for WordPress](https://wordpress.org/plugins/automate-mautic/) - Add registered WP users and commentors to mautic contacts.
+* [Banhammer](https://wordpress.org/plugins/banhammer/) - Monitor traffic and ban unwanted visitors.
 * [BE Media from Production](https://github.com/billerickson/BE-Media-from-Production) - Uses local media when available, and uses the production server for the rest.
 * [BEA – Sanitize Filename](https://wordpress.org/plugins/bea-sanitize-filename/) - Remove all punctuation and accents from the filename of uploaded files.
 * [Better Font Awesome](https://wordpress.org/plugins/better-font-awesome/) - The ultimate Font Awesome icon plugin for WordPress.
