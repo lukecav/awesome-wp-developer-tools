@@ -102,9 +102,9 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Expire Password Protected Pages](https://wordpress.org/plugins/expire-password-protected-pages/) - This plugin will require visitors to type in the password each time they are visiting a password protected page. This will also prevent the page from being accessible if someone types in the password on a public computer.
 * [Expire Users](https://wordpress.org/plugins/expire-users/) - Set expiry dates for user logins.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake data to your WordPress installation, great for developers who need testing.
-* [FastDev](https://wordpress.org/plugins/fresh-plugins/) - Provides helpful information and functions for WordPress developers to make the development even faster.
+* [FastDev](https://wordpress.org/plugins/fastdev/) - Provides helpful information and functions for WordPress developers to make the development even faster.
 * [Favorites](https://github.com/kylephillips/favorites) - Simple and flexible favorite buttons for any post type.
-* [Fresh Plugins](https://wordpress.org/plugins/fastdev/) - A simple plugin to allow fresh plugin re-installation of plugins from WordPress.org.
+* [Fresh Plugins](https://wordpress.org/plugins/fresh-plugins/) - A simple plugin to allow fresh plugin re-installation of plugins from WordPress.org.
 * [GDPR Data Request Form](https://wordpress.org/plugins/gdpr-data-request-form/) - Integrates WordPress Core 4.9.6 GDPR tools to allow users/visitors to request Personal Data export/erasure with front-end forms.
 * [Gitium](https://wordpress.org/plugins/gitium/) - Keep all your code on git version control system.
 * [Gutenberg Ramp](https://wordpress.org/plugins/gutenberg-ramp/) - Allows theme authors to control the circumstances under which the Gutenberg editor loads. Options include "load" (1 loads all the time, 0 loads never) "post_ids" (load for particular posts) "post_types" (load for particular posts types.)
