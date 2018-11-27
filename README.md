@@ -4,6 +4,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 ## Table Of Contents
 * [WordPress API Libraries](#wordpress-api-libraries)
 * [WordPress Plugins](#wordpress-plugins)
+* [WordPress Starter Themes](#wordpress-starter-themes)
 
 ## WordPress API Libraries
 * [wp-api-base](https://github.com/wp-api-libraries/wp-api-base) - Abstract PHP class to build additional WordPress APIs.
