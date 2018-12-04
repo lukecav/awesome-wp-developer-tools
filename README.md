@@ -87,6 +87,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Disable Comments](https://wordpress.org/plugins/disable-comments/) - Easily turns off comments across your site if it doesn't fit well with your site's goals.
 * [Disable Emails](https://wordpress.org/plugins/disable-emails/) - Stop WordPress from sending any emails.
 * [Disable Gutenberg](https://wordpress.org/plugins/disable-gutenberg/) - Completely disable Gutenberg Editor sitewide or for specific post types.
+* [Disable Gutenberg Blocks](https://wordpress.org/plugins/disable-gutenberg-blocks/) - Remove unwanted blocks from the Gutenberg Block Inserter.
 * [Disable Gutenberg Dashboard](https://github.com/lukecav/disable-gutenberg-dashboard) - Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
 * [Dismiss "try Gutenberg" Nag Dashboard Widget](https://wordpress.org/plugins/dismiss-gutenberg-nag/) - Dismiss 'try Gutenberg" nag, dashboard widget, when is activated, or automatically, when put on mu-plugins directory.
 * [Disable Privacy Tools](https://wordpress.org/plugins/disable-privacy-tools/) - Disables core's privacy tools including tools for exporting/erasing personal data.
