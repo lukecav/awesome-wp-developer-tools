@@ -81,6 +81,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Debug Bar ElasticPress](https://github.com/10up/debug-bar-elasticpress) - A WordPress plugin that adds a Debug Bar panel to examine ElasticPress queries.
 * [Debug Objects](https://wordpress.org/plugins/debug-objects/) - List filter and action-hooks, cache data, defined constants, queries, included scripts and styles, php and memory information and return of conditional tags only for admins, for debug, information or learning purposes.
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
+* [Debug Toolkit](https://wordpress.org/plugins/debug-toolkit/) - Code debug made easier and more enjoyable.  A suite of tools to help you debug your code.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
 * [Dev Content Blocks](https://wordpress.org/plugins/dev-content-blocks/) - This plugin adds content blocks with HTML, JS, and CSS blocks to be called by using a shortcode.
 * [Digital Ocean Spaces Sync](https://wordpress.org/plugins/do-spaces-sync/) - This WordPress plugin syncs your media library with Digital Ocean Spaces Container.
