@@ -222,6 +222,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Inspect](https://wordpress.org/plugins/wp-inspect/) - The WordPress Debug Plugin.
 * [WP Migrate DB Anonymization](https://wordpress.org/plugins/wp-migrate-db-anonymization/) - An extension to WP Migrate DB and WP Migrate DB Pro that anonymizes user data.
 * [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
+* [WP Notification Center](https://wordpress.org/plugins/wp-notification-center/) - Adds a notification center to WordPress, no more pages that are cluttered with notifications.
 * [WP Original Media Path](https://wordpress.org/plugins/wp-original-media-path/) - Change the location for the uploads folder for WordPress.
 * [WordPress-Gear](https://github.com/wecodemore/WordPress-Gear) - A bunch of gear for WP developers.
 * [WP Query Console](https://wordpress.org/plugins/wp-query-console/) - Handy tool for developers to quickly test various WordPress queries (WP_Query, WP_User_Query, WP_Comment_Query, WP_Term_Query, WP_Network_Query, WP_Site_Query). Simply provide your arguments array and select the query type you would like to test. 
