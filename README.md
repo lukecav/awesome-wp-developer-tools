@@ -203,6 +203,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 * [Vevida Optimizer](https://wordpress.org/plugins/vevida-optimizer/) - Configure automatic updates for each WordPress component, and optimize the mySQL database tables.
 * [View Admin As](https://github.com/JoryHogeveen/view-admin-as) - View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles.
+* [Website File Changes Monitor](https://wordpress.org/plugins/website-file-changes-monitor/) - A hassle-free way to get alerted of file changes on your WordPress site & boost security.
 * [What The File](https://wordpress.org/plugins/what-the-file/) - What The File adds an option to your toolbar showing what file and template parts are used to display the page you are currently viewing. You can click the file name to directly edit it through the theme editor. Supports BuddyPress and Roots Theme.
 * [Widget Options](https://wordpress.org/plugins/widget-options/) - Additional Widget options for better widget control.
 * [Wordfence](https://wordpress.org/plugins/wordfence/) - The top free WordPress security plugin. A true software-based WAF (web application firewall).
