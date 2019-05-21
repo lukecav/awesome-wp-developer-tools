@@ -136,6 +136,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [MetaShortcode](https://wordpress.org/plugins/metashortcode/) - Use custom fields as shortcode in post content.
 * [MB Rest API](https://github.com/rilwis/mb-rest-api) - MB Rest API is an extension of the Meta Box plugin which pulls all custom fields' values (meta value) from posts, pages, custom post types, terms into the WordPress REST API responses under 'meta_box' key.
 * [MB Custom Taxonomy](https://github.com/rilwis/mb-custom-taxonomy) - MB Custom Taxonomy helps you to create and manage custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
+* [Meks Quick Plugin Disabler]https://wordpress.org/plugins/meks-quick-plugin-disabler/) - Temporarily disable (and restore) all currently active plugins with a single click. Main purpose of the plugin is to quickly find out if any recent issue you are having on your website is related to the one of currently active plugins.
 * [Meta Pixie](https://wordpress.org/plugins/meta-pixie/) - List, filter, sort and view commentmeta, postmeta, termmeta, sitemeta and usermeta records, even serialized and base64 encoded values.
 * [Minimum Featured Image Size](https://wordpress.org/plugins/minimum-featured-image-size/) - Set the minimum size required for featured images.
 * [My Simple Space](https://wordpress.org/plugins/my-simple-space/) - Shows the diskspace and memory usage of your site.
