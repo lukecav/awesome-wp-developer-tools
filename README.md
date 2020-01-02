@@ -51,6 +51,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [BRAD](https://wordpress.org/plugins/brad/) - Better Responsibility Around Discoverability.
 * [BrowserStack for WordPress](https://wordpress.org/plugins/browserstack/) - This plugin enables the integrations of BrowserStack products for testing your content on real devices.
 * [Bulk Actions Select All](https://wordpress.org/plugins/bulk-actions-select-all/) - Bulk Actions For All Posts adds an option to the posts overview in the WordPress Admin to select “All Posts”. By default, WordPress only allows you to select the posts on the current page.
+* [Bulk Block Converter](https://wordpress.org/plugins/bulk-block-converter/) - Quickly convert all content to WordPress 5 blocks. An extremely useful tool when upgrading to the WordPress 5 Gutenberg editor.
 * [Bulk Change Role](https://wordpress.org/plugins/bulk-role-change/) - Transfer all users from one role to another.
 * [Carbon Fields](https://wordpress.org/plugins/carbon-fields/) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
 * [Carbon Field: Display Checkbox](https://github.com/statenweb/carbon-field-display-checkbox) - Display Field extension for Carbon Fields. Displays "yes" instead of 1 for displaying checkbox values.
