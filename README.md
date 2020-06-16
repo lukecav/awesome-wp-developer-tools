@@ -75,6 +75,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Classic Editor Addon](https://wordpress.org/plugins/classic-editor-addon/) - The Classic Editor plugin doesn't remove Gutenberg by default. This addon changes that and makes some more changes. See readme.txt for more details.
 * [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) - Assign multiple bylines to posts, pages, and custom post types via a search-as-you-type input box.
 * [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/) - The only cookie consent plugin you'll ever need.
+* [Conditional Blocks](https://wordpress.org/plugins/conditional-blocks/) - Conditionally show or hide any Gutenberg Block for any reason.
 * [Cron Logger](https://wordpress.org/plugins/cron-logger/) - Logs for cron runs.
 * [Customize Posts](https://wordpress.org/plugins/customize-posts/) - Manage posts and postmeta via the Customizer.
 * [Custom Field Suite](https://wordpress.org/plugins/custom-field-suite/) - Visually add custom fields to your WordPress edit pages.
