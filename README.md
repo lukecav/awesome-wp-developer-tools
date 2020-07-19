@@ -171,6 +171,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Options Pixie](https://wordpress.org/plugins/options-pixie/) - List, filter, sort and view options records, even serialized and base64 encoded values.
 * [Override Comment Options](https://wordpress.org/plugins/override-comment-options/) - Enables override of "Automatically close comments on posts older than" option in the WP Discussion Settings.
 * [Redirect Front-end to Login | Headless WP](https://wordpress.org/plugins/redirect-front-end-to-login-headless-wp/) - Redirects all front-end pages to the login page, best for building a headless WP REST API backend.
+* [Regenerate Thumbnails Advanced](https://wordpress.org/support/plugin/regenerate-thumbnails-advanced/) - Regenerate Thumbnails Advanced (RTA) plugin comes in handy when you install a new WordPress theme on your site that has different image sizes.
 * [Reporting API](https://wordpress.org/plugins/reporting-api/) - WordPress plugin for receiving browser reports via a Reporting API endpoint.
 * [Remove WP Meta Tags and Links](https://wordpress.org/plugins/remove-wp-meta-tags/) - It is a very lightweight plugin for enable, disable or remove the unwanted meta tags and links from the source code.
 * [Remove WP Update Nags](https://wordpress.org/plugins/remove-wp-update-nags/) - Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
