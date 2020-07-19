@@ -189,6 +189,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Salt Shaker](https://wordpress.org/plugins/salt-shaker/) - A plugin that changes the WP salt values.
 * [Safe SVG](https://wordpress.org/plugins/safe-svg/) - WordPress has disallowed SVG uploading for some time because detecting one with malicious code inside it is hard to do. Well, one guy finally figured out a way to sanitize them, so he wrote this plugin that finally enables SVG uploads by passing them through his sanitizer. This SVG enabler is the only one that should be trusted.
 * [Search Regex](https://wordpress.org/plugins/search-regex/) - Adds search & replace functionality across posts, pages, comments, and meta-data, with full regular expression support.
+* [ShortPixel Image Optimizer](https://wordpress.org/plugins/shortpixel-image-optimiser/) - Freemium image optimization. Lossy, glossy, loseless. Images backup, WebP delivery, image resize, bulk optimization.
 * [The SEO Framework](https://wordpress.org/plugins/autodescription/) - A full-featured, yet less-bloated, alternative to the likes of Yoast and All-in-One SEO.
 * [ServerMonitor](https://wordpress.org/plugins/servermonitor/) -  A simple plugin to view server resource usage (ram, cpu, disk), check your PHP error log, and more.
 * [Send System Info](https://wordpress.org/plugins/send-system-info/) - Displays System Info for debugging.  This info can be emailed and/or displayed to support personnel via unique URL.
