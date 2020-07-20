@@ -2,9 +2,15 @@
 A collection of plugins, starter themes and tools to make WordPress development easier.
 
 ## Table Of Contents
+* [WordPress Libraries](#wordpress-libraries)
 * [WordPress API Libraries](#wordpress-api-libraries)
 * [WordPress Plugins](#wordpress-plugins)
 * [WordPress Starter Themes](#wordpress-starter-themes)
+
+## WordPress Libraries
+* [Cortex](https://github.com/Brain-WP/Cortex) - Cortex is routing system for WordPress based on FastRoute.
+* [Controller](https://github.com/soberwp/controller) - WordPress package to enable a controller when using Blade with Sage.
+* [WP Emerge](https://github.com/htmlburger/wpemerge) - A micro framework which modernizes WordPress as a CMS development by providing tools to implement MVC and more.
 
 ## WordPress API Libraries
 * [wp-api-base](https://github.com/wp-api-libraries/wp-api-base) - Abstract PHP class to build additional WordPress APIs.
