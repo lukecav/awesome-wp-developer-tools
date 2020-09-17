@@ -89,6 +89,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Custom Field Suite Yoast Analysis](https://wordpress.org/plugins/cfs-yoast-analysis/) - Integrate Custom Field Suite content in Yoast WordPress SEO analysis.
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Debug Bar ElasticPress](https://github.com/10up/debug-bar-elasticpress) - A WordPress plugin that adds a Debug Bar panel to examine ElasticPress queries.
+* [DebugPress](https://wordpress.org/plugins/debugpress/) - DebugPress is an easy to use plugin implementing popup for debugging and profiling currently loaded WordPress powered website page with support for intercepting AJAX requests.
 * [Debug Objects](https://wordpress.org/plugins/debug-objects/) - List filter and action-hooks, cache data, defined constants, queries, included scripts and styles, php and memory information and return of conditional tags only for admins, for debug, information or learning purposes.
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
 * [Debug Toolkit](https://wordpress.org/plugins/debug-toolkit/) - Code debug made easier and more enjoyable.  A suite of tools to help you debug your code.
