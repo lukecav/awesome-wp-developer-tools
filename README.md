@@ -174,6 +174,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Piklist](https://github.com/piklist/piklist) - The most powerful framework available for WordPress.
 * [PWA](https://wordpress.org/plugins/pwa/) - Feature plugin to bring Progressive Web App (PWA) capabilities to Core.
 * [Public Post Preview](https://wordpress.org/plugins/public-post-preview/) - Enables you to give a link to anonymous users for public preview of any post type before it is published.
+* [Quick Purge Debug for WordPress](https://github.com/norcross/wp-quick-purge-debug) - Add ways to quickly purge the debug log file.
 * [One Call – WP REST API Extension](https://wordpress.org/plugins/one-call/) - Get featured images, categories, tags, taxonomies,custom fields & author details etc all together by one call from WordPress rest api to reduce responsed time.
 * [One-time Callbacks](https://github.com/stevegrunwell/one-time-callbacks) - Enable WordPress actions and filter callbacks to be called exactly once.
 * [Options Pixie](https://wordpress.org/plugins/options-pixie/) - List, filter, sort and view options records, even serialized and base64 encoded values.
