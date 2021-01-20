@@ -88,6 +88,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Custom Field Suite](https://wordpress.org/plugins/custom-field-suite/) - Visually add custom fields to your WordPress edit pages.
 * [Custom Field Suite Options Screens](https://wordpress.org/plugins/cfs-options-screens/) - Register options screens powered by Custom Field Suite.
 * [Custom Field Suite Yoast Analysis](https://wordpress.org/plugins/cfs-yoast-analysis/) - Integrate Custom Field Suite content in Yoast WordPress SEO analysis.
+* [Custom Layouts](https://wordpress.org/plugins/custom-layouts/) - Build a list or grid layout of any post type.  Design the look of each item in the layout using our powerful drag and drop template editor. 
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Debug Bar ElasticPress](https://github.com/10up/debug-bar-elasticpress) - A WordPress plugin that adds a Debug Bar panel to examine ElasticPress queries.
 * [DebugPress](https://wordpress.org/plugins/debugpress/) - DebugPress is an easy to use plugin implementing popup for debugging and profiling currently loaded WordPress powered website page with support for intercepting AJAX requests.
