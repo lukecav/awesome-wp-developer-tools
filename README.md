@@ -66,6 +66,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Cavalcade](https://github.com/humanmade/Cavalcade) - A better wp-cron. Horizontally scalable, works perfectly with multisite.
 * [CF7 to Zapier](https://wordpress.org/plugins/cf7-to-zapier/) - Use Contact Form 7 as a trigger to Zapier.
 * [Child Theme Configurator](https://wordpress.org/plugins/child-theme-configurator/) - Generates a child theme based on an existing theme, and even migrates all of your settings to the child theme from the parent (like widgets and menus).
+* [Classic Widgets)](https://wordpress.org/plugins/classic-widgets/) - Enables the classic widgets settings screens in Appearance - Widgets and the Customizer. Disables the block editor from managing widgets.
 * [Cleanup Multisite DB Tables (WP-CLI Custom Command)](https://github.com/shawnhooper/delete-orphaned-multisite-tables) - Finds and delete orphaned tables in a WordPress Multisite network using WP-CLI.
 * [CMB2 Attached Posts Field](https://github.com/CMB2/cmb2-attached-posts) - Custom field for Custom Metaboxes and Fields for WordPress for attaching posts to a page.
 * [CMB2 Code Snippet Library](https://github.com/CMB2/CMB2-Snippet-Library) - This is a community-maintained repository of code snippets that help modify the default behavior of CMB2.
