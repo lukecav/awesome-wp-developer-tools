@@ -240,6 +240,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Codeception](https://github.com/10up/wp-codeception) - Registers WP-CLI commands which allow you to execute Codeception tests.
 * [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
 * [WP Dashboard Cleaner](https://wordpress.org/plugins/wp-dashboard-cleaner/) - The Admin can remove unwanted widgets / sections from your WordPress Dashboard.
+* [WP Data Access](https://wordpress.org/plugins/wp-data-access/) - Local and remote data administration, publication and app development tool available directly from the WordPress dashboard.
 * [WP Deploy Flow](https://wordpress.org/plugins/wp-deploy-flow/) - Deploy to and from remote environments.
 * [WP_Model](https://github.com/anthonybudd/WP_Model) - A simple drop-in abstract class for creating active record style eloquent-esque models of WordPress Posts.
 * [WP Widget Disable](https://wordpress.org/plugins/wp-widget-disable/) - Disable Sidebar and Dashboard Widgets with an easy to use interface. Simply use the checkboxes provided under Appearance -> Disable Widgets and select the Widgets you'd like to hide.
