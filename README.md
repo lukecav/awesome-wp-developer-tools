@@ -279,7 +279,8 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WPOnion](http://github.com/wponion/) - ~ Lightweight & Flexible WP Options & Rapid Development Framework ~ 
 * [Yoast SEO: Search Index Purge](https://wordpress.org/plugins/yoast-seo-search-index-purge/) - Remove attachment URLs from Google's index as fast as possible to prevent thin content penalties.
 * [Yeoman WordPress Plugin Generator](https://github.com/WebDevStudios/generator-plugin-wp) - Yeoman generator for WordPress plugins.
-* [Upgrade for Unattach and Re-attach Media Attachments](https://wordpress.org/plugins/upgrade-for-unattach-re-attach-media-attachments/) - Unattach and Re-attach images and other attachments from within the media library. The plugin is similar to its predecessors but security and code refactoring has been done.
+* [Yeoman WordPress Plugin Generator](https://github.com/WebDevStudios/generator-plugin-wp) - Yeoman generator for WordPress plugins.
+* [Unlist Posts & Pages](https://wordpress.org/plugins/unlist-posts//) - Unlist Posts from dispying anywhere on the site, only access the post with a direct link.
 * [Uploads by Proxy](https://github.com/pdclark/uploads-by-proxy) - Load images from production site if missing in development environment.
 
 ## WordPress Starter Themes
