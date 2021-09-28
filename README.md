@@ -131,6 +131,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Hide Backend Notices](https://wordpress.org/plugins/wp-hide-backed-notices/) - The Hide admin notices plugin adds “Hide notification forever” link for each admin notice. Click this link and plugin will filter this notice and you will never see it.
 * [HookPress](https://github.com/mohland/hookpress) - HookPress turns your WordPress-internal hooks into webhooks. Possible uses include generating push notifications or extending WordPress with non-PHP.
 * [Inactive Logout](https://wordpress.org/plugins/inactive-logout/) - Inactive logout provides functionality to log out any idle users defined specified time showing a message. Works for frontend as well.
+* [Insecure Content Warning](https://wordpress.org/plugins/insecure-content-warning/) - Prevent editors from adding insecure content in the editor.
 * [Invalid Login Redirect](https://github.com/CodeParrots/Invalid-Login-Redirect) - Invalid Login Redirect is a WordPress plugin that allows you to specify the number of times a user can enter invalid credentials before being redirected to a custom page of your choosing.
 * [Laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 * [Laravel DD for WordPress](https://wordpress.org/plugins/laravel-dd/) - Use Laravel's dd() (die dump) function in your WordPress projects.
