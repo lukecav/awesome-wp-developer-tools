@@ -45,6 +45,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Amuga Ajax Log](https://wordpress.org/plugins/amuga-ajax-log/) - Log admin-ajax hits for troubleshooting purposes.
 * [Attachments](https://wordpress.org/plugins/attachments/) - Attachments gives the ability to append any number of Media Library items to Pages, Posts, and Custom Post Types.
 * [ARI Adminer](https://wordpress.org/plugins/ari-adminer/) - This plugin connects WordPress and Adminer database management tool. Can work with MySQL, PostgreSQL and SQLite databases.
+* [Ascendoor Metadata Manager](https://wordpress.org/plugins/ascendoor-metadata-manager/) - View and manage posts, terms, users and comments metadata.
 * [Auto Upload Images](https://wordpress.org/plugins/auto-upload-images/) - Automatically upload and import external images of a post to Wordpress upload directory and media management.
 * [AJAX Action Wrapper](https://github.com/YahnisElsts/ajax-wrapper) - This helper library makes it easier to handle AJAX requests in WordPress plugins.
 * [AutomatePlus – Mautic for WordPress](https://wordpress.org/plugins/automate-mautic/) - Add registered WP users and commentors to mautic contacts.
