@@ -93,6 +93,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Custom Layouts](https://wordpress.org/plugins/custom-layouts/) - Build a list or grid layout of any post type.  Design the look of each item in the layout using our powerful drag and drop template editor. 
 * [Customize Plugin Manager](https://wordpress.org/plugins/customize-plugin-manager/) - Manage plugins within the customizer (experimental).
 * [Debug Bar ElasticPress](https://github.com/10up/debug-bar-elasticpress) - A WordPress plugin that adds a Debug Bar panel to examine ElasticPress queries.
+* [Debug Log Manager](https://wordpress.org/plugins/debug-log-manager/) - Log errors via WP_DEBUG. Create, view and clear debug.log file.
 * [DebugPress](https://wordpress.org/plugins/debugpress/) - DebugPress is an easy to use plugin implementing popup for debugging and profiling currently loaded WordPress powered website page with support for intercepting AJAX requests.
 * [Debug Objects](https://wordpress.org/plugins/debug-objects/) - List filter and action-hooks, cache data, defined constants, queries, included scripts and styles, php and memory information and return of conditional tags only for admins, for debug, information or learning purposes.
 * [Debug Quick Look](https://github.com/norcross/debug-quick-look) - Creates an admin bar link to view or purge the debug log file.
