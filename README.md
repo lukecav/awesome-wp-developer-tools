@@ -177,6 +177,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [Postmenu](https://wordpress.org/plugins/postmenu/) - Duplicate Posts, Pages, Menus, Menu Links (Items of Menu).
 * [Post Meta Inspector](https://wordpress.org/plugins/post-meta-inspector/) - A quick and easy way to see post meta associated with any given post. When activated, this plugin prints your post meta keys and values inside of a post meta box.
 * [Post Type Switcher](https://wordpress.org/plugins/post-type-switcher/) - This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type.
+* [PressProxy](https://pressproxy.io/) - A plugin for seamless integration with Cloudflare workers to inject a Wordpress blog into any website's `/blog` subdirectory.
 * [Piklist](https://github.com/piklist/piklist) - The most powerful framework available for WordPress.
 * [PWA](https://wordpress.org/plugins/pwa/) - Feature plugin to bring Progressive Web App (PWA) capabilities to Core.
 * [Public Post Preview](https://wordpress.org/plugins/public-post-preview/) - Enables you to give a link to anonymous users for public preview of any post type before it is published.
